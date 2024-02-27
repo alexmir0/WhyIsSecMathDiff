@@ -10,9 +10,9 @@ The data set is coded in Catalan and Spanish, as those were the mother-tongue la
 
 CONTACT Àlex Miró
 ------------------------- 
-Mail: alex.miro@upc.edu
-ORCID: 0000-0003-4948-6040
-Twitter: @_alexmiro
+Mail: alex.miro@upc.edu.
+ORCID: 0000-0003-4948-6040.
+Twitter: @_alexmiro.
 
 LICENSE
 -------
