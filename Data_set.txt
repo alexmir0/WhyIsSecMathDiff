@@ -1,0 +1,1019 @@
+R: Revisem aquesta seqŸncia didˆctica titulada ÒOperacions amb fraccionsÓ. Aqu’ tens el material te˜ric que proposa un llibre de text digital per al curs de 1r dÕESO. [Es dona imprs el material te˜ric de la seqŸncia didˆctica dÕoperacions amb fraccions].
+R: Quina hauria de ser la seqŸncia per aprendre correctament els sabers de lÕ’ndex? Per qu?
+P01: Aquest ’ndex ja estˆ ordenat, no? S’, no sŽ si diferenciaria suma i resta. Jo no faria suma i resta per separat, ho faria junt. Perqu crec que aqu’ Žs no entenen els enters. Perqu jo crec que els alumnes han dÕentendre que si fas 2 - 3 no Žs una resta sin— la suma dÕun positiu i un negatiu.
+R: Es podria modificar lÕordre en algun dels sabers de la llista anterior? Quins i per qu?
+P01: No. Ho faria aix’ tambŽ.Ê
+R: Ordena els sabers de lÕ’ndex que sÕexpliquen en aquesta seqŸncia didˆctica segons la seva complexitat per als alumnes. ƒs a dir, de mŽs a menys dif’cil dÕaprendre per a un alumne, en general.
+P01: Jo potser faria primer la suma i la resta de fraccions amb diferent denominador. DesprŽs faria la reducci— de fraccions a comœ denominador. DesprŽs les operacions combinades. Perqu crec que quan el denominador Žs igual [en suma i resta] ho entenen bŽ, que la multiplicaci— i la divisi— com que Žs algor’tmica tambŽ [Žs fˆcil dÕentendre], per˜ per exemple quan han de fer comœ denominador els hi costa molt, i les combinades tambŽ.
+R: Per qu? Quins factors fan que aquests conceptes siguin dif’cil pels alumnes?
+P01: BŽ, jo no s—c molt partidˆria dÕensenyar el comœ denominador -tot i que ho ensenyo, eh- fent el m’nim [comœ denominador]. Crec que depn de com ho ensenyes pot ser molt dif’cil. La descomposici— aquesta factorial no mÕagrada gaire si el nombre Žs molt gran, per exemple. Potser a vegades no cal que facin la descomposici— sin— que pots ensenyar que hi ha un denominador comœ que no sigui el m’nim, i Žs mŽs fˆcil.Ê
+Llavors jo aqu’ tambŽ moltes vegades tinc conflictes. Jo la descomposici— factorial s’ que ho ensenyo quan s—n nœmeros grans, si s—n nœmeros petits: 72 Žs 8 per 9.Ê
+La reducci— de fraccions a comœ denominador sÕha dÕensenyar quan Žs necessari i quan no. ƒs necessari quan els nombres s—n grans i costa trobar un denominador comœ, a menys que ho multipliquis directament. Per˜ quan s—n nombres petits potser no Žs la manera mŽs rˆpida. Potser primer pots simplificar, desprŽs descomposar.Ê
+Crec que hi ha alumnes pels qui entendre qu Žs el m’nim comœ mœltiple no Žs tan evident. Per mi, de totes les coses, crec que Žs el mŽs complicat. Per qu ha de ser el m’nim si tambŽ funciona si no Žs el m’nim? LÕimportant Žs que sigui un comœ, i hi ha vˆries maneres, no nomŽs fer la descomposici—.
+R: Quins coneixements previs / fonaments creus que seran mŽs rellevants / necessaris per poder aprendre amb xit aquesta seqŸncia didˆctica? M’nim 2.
+P01: Jo crec que han de tenir molt clar com descomposar els nombres. Per fer el m’nim [comœ mœltiple] i per simplificar. Quan fan la divisi— i la multiplicaci—, poden a la vegada estar simplificant i no cal resoldre. Per mi una tˆctica en aquests casos Žs descomposar els nombres (si s—n petits), simplificar, i desprŽs fer lÕoperaci— al final.
+I desprŽs un altre tambŽ, que tinguin molt clara la jerarquia dÕoperacions. I que tambŽ tinguin un domini de la suma i la multiplicaci— dÕenters, i la resta i la divisi—, de la regla del signes.
+R: Qu passa amb els alumnes que tenen dubtes sobre aquests coneixements previs, Žs a dir, no els tenen suficientment assolits?
+P01: Jo crec que primer han dÕentendre-ho amb els enters. Sin— ja tenen la dificultat afegida a la fracci—. Per tant, repassaria, perqu primer ho entenguin amb enters i desprŽs que vegin el paralálelisme amb les fraccions.
+R: Ordena de major a menor rellevˆncia els coneixements previs de la llista1 segŸent [es dona llista impresa] per tal de poder aprendre amb xit en aquesta seqŸncia didˆctica.
+
+Nombres primers, potncies, multiplicaci— i divisi— dÕenters, numerador i denominador, fracci—, i amplificaci— i reducci— de fraccions.
+R: Revisem aquests problemes. [Es donen impresos quatre problemes amb soluci—]. Corresponen a la seqŸncia didˆctica anterior.
+OrdenaÕls segons complexitat per als alumnes. ƒs a dir, de mŽs fˆcil a mŽs dif’cil de resoldre per a un alumne, en general. Digues breument per qu.
+P01: Jo diria el mŽs fˆcil el 6, desprŽs el 7, desprŽs lÕ1 i lÕœltim el 10. El 6 crec que Žs bastant fˆcil perqu Žs una suma i una resta, i desprŽs una multiplicaci—. Crec que s'entŽn bŽ aquest problema. Jo crec que els alumnes veuen bŽ qu han de fer.Ê
+El de les operacions combinades [problema 7] no s—n molt dif’cils, perqu es veu bŽ la jerarquia amb el parntesis, Žs curta, s—n 3 o 4 mˆxim, no hi ha moltes passes, ni claudˆtor.
+A lÕ1, tambŽ fa la divisi— [de fraccions], cosa que en el 6 no, que nomŽs Žs multiplicar, sumar i restar. En aquest afegeix la divisi—. I hi ha una part de comprensi— de que lÕalumne ha de dividir.ÊÊ
+R: Vols dir que entendre que ha de dividir entre una fracci— Žs un procediment que potser lÕalumne no sÕimaginaria?
+P01: Exacte.
+R: I el problema 10, per tant, Žs el mŽs dif’cil?
+Aquest s’ que el veig mŽs dif’cil. Ho he vist sobretot a lÕapartat c perqu tambŽ hi ha la divisi— aquesta [de fraccions]. I la multiplicaci— aquesta de lÕapartat b, entendre qu Žs ? de ?. Tot i que abans tambŽ ho utilitza [la fracci— dÕuna quantitat], per˜ com que en els problemes anteriors de nombre sencerÉ Quan li dius ? de 16, o li dius ? de ? , Žs diferent.
+R: Per tant, una mica englobant el que has dit, corregeix-me si no Žs aix’, tu creus que la dificultat del problema estaria en qu lÕalumne/a sˆpiga trobar qu ha de fer, no?ÊÊ
+P01: S’, i tambŽ en la comprensi—. En el problema de la recollida de joguines [problema 6], potser ho entenen mŽs, al ser coses enteres, com en el problema 1 que Žs 16 litres.Ê
+R: El litre Žs mŽs dif’cil dÕentendre que la joguina, o Žs el mateix?
+P01: Ells/es [alumnes] el litre lÕentenen, per˜ entendre qu Žs 5/2 de litre Žs mŽs dif’cil.
+R: Aquest œs de la fracci— com a proporci—, Žs el que els hi pot costar mŽs?
+P01: S’.
+R: Entesos. Recapitulant, la dificultat del problema estˆ en qu lÕalumne/a sigui capa de trobar qu ha de fer i quines passes per resoldreÕl i desprŽs amb la interpretaci— de les fraccions com a operador, proporci— o el que sigui.
+P01: S’.
+R: En quins aspectes creus que els alumnes tindran dificultats per la resoluci— del problema 1?
+P01: Hi haurˆ nens/es que no lÕentendran. Perqu no entendran qu vol dir que et falta ? dÕun dip˜sit. Aquest problema, si Žs al principi, hauria de ser un problema que -depn de com hagis treballat- amb un dibuix, potser Žs mŽs grˆfic i entenen mŽs qu vol dir.Ê
+Jo mÕimagino alumnes que potser a casa cuinen i entenen, i hi ha alumnes que potser no sÕhan plantejat mai o no tenen el concepte de qu vol dir un medidor, un quart, mig litre visualment -tot i que estem a 1r dÕESO. Que els alumnes entenguin visualment qu vol dir un quart.Ê
+Jo faig receptes amb els nens i posem mig litre de llet, i ho veuen quan Žs, en un got. No tots els nens tenen aquesta mirada.Ê
+R: Quins dels coneixements de lÕ’ndex de la seqŸncia didˆctica seran necessaris per poder resoldre el problema 1?
+P01: La multiplicaci— [de fraccions]. I la reducci—, perqu si multiplica directament seria 16/4.Ê
+R: Que sigui capa de fer 16/4 per dir que s—n 4 litres?
+P01: Clar, exacte.
+R: I en la resta dÕapartats?
+P01: Aqu’2 no et diu lÕoperaci— realment, perqu diu Òsabem que 5 gots s—n 1 litreÓ, ÒnÕhan servit 15Ó. Falta aqu’ alguna operaci— mŽs. 15:5 = 3, É, saps el que et vull dir? Perqu de cop aqu’ apareix el 3.Ê
+Aqu’ no veig cap concepte de la seqŸncia didˆctica.
+I en lÕapartat c, la divisi— de fraccions i la simplificaci—.
+R: Quins coneixements previs / fonaments creus que seran necessaris per poder resoldre el problema 1?
+P01: El tema del repartiment i la divisi—, no en fraccions sin— en general, seria un coneixement previ. Tenir clar qu Žs repartir o multiplicar en problemes.Ê
+R: En quins aspectes creus que els alumnes tindran dificultats per la resoluci— del problema 6?
+P01: Aqu’ falten coneixements previs que haguŽs practicat abans. En aquest cas per mi seria: explicar que el tot en una fracci— Žs lÕ1. Ho dic perqu quan he vist el problema he pensat que no era dif’cil, tenint clar que lÕ1 entenen que Žs tot. I desprŽs explicant tambŽ bŽ quan fas les parts dÕun tot, quina Žs lÕoperaci— o perqu, que jo lÕhaguŽs afegit a la part de la multiplicaci—. O sigui perqu quan fas 4/7 de 231 fas el que fas. Vull dir que si fas aquests previs aquest problema Žs directe per a ells/es.Ê
+R: Per tant, la font de dificultat Žs que hi ha uns coneixements que potser no has explicat a la seqŸncia didˆctica i que cal saber-los per poder desencallar la resoluci— del problema 6.
+P01: S’, quan he pensat la dificultat, pensava que aix˜ sÕhauria explicat abans de resoldre el problema. Perqu crec que aquest problema en operat˜ria i de comprensi— Žs fˆcil. Si els hi expliques prviament [aquests coneixements previs] no serˆ dif’cil, ho entendran.
+R: Quins dels coneixements de lÕ’ndex de la seqŸncia didˆctica seran necessaris per poder resoldre el problema 6?
+P01: La suma i la resta [de fraccions], que jo ho inclouria junt, i el producte [de fraccions].Ê
+R: Quins coneixements previs / fonaments creus que seran necessaris per poder resoldre el problema 6?
+P01: El tot dÕuna fracci— que Žs 1, les parts del tot (Ò4/7 de talÓ). I bŽ, jo moltes vegades explico les fraccions i els hi explico com a nombres racionals. Els hi explico que han de ser 2 enters. I dÕaqu’ ve el concepte de que un nombre que no tŽ denominador Žs equivalent al mateix nombre amb denominador 1. Ho dic perqu moltes vegades dius, multipliques pel de dalt i divideixes pel de baix3, per˜ en realitat no estˆs fent aix˜, en realitat estˆs fent un producte de fraccions.Ê
+Jo crec que en aquestes coses Žs on pots fer la part matemˆtica de les mates, o no.
+R: ƒs a dir, ho pots fer per la part mŽs matemˆtica, o per la part mŽs operativa, executiva o prˆctica?
+P01: Exacte. Jo aqu’ puc afegir moltes falques com aquestes.Ê
+R: Per qu creus que Žs important que els alumnes ho aprenguin dÕaquesta forma mŽs formal, i no tant prˆctica?
+P01: BŽ, jo crec molt en la prˆctica. I potser alguns nens/es no ho entendran i es quedaran nomŽs amb la part prˆctica. Per˜ hi ha alguns alumnes que els hi agrada mŽs la part formal i potser ser una mica rigor—s i ensenyar realment el vocabulari o el perqu -jo ja sŽ que aix˜ no arriba a molts- per˜ jo crec que Žs on te nÕadones que les matemˆtiques no Žs nomŽs fer operacions, sin— un llenguatge en si. Jo utilitzo la fracci— per fer aquest problema, per˜ en realitat aix˜ [la fracci—] en si mateix ja Žs algo. No necessito nombres, podria estar-ho fent tot amb lletres i tindria el mateix sentit.
+R: En quins aspectes creus que els alumnes tindran dificultats per la resoluci— del problema 7?
+P01: Poca, la veritat, perqu si han treballat una mica bŽ la jerarquiaÉ Aqu’ a lÕapartat d torna a aparixer la idea de que un nombre enter tŽ denominador 1.
+R: Quins dels coneixements de lÕ’ndex de la seqŸncia didˆctica seran necessaris per poder resoldre el problema 7?
+P01: L'operat˜ria: suma, resta, multiplicaci—, divisi—É principalment tot. I el comœ denominador.
+R: Quins coneixements previs / fonaments creus que seran necessaris per poder resoldre el problema 7?
+P01: El fet que tots els enters s—n racionals en realitat [equivalncia entre enters i fraccions].
+R: En quins aspectes creus que els alumnes tindran dificultats per la resoluci— del problema 10?
+P01: La dificultat dÕaquest problema Žs operar amb fraccions, o sigui, que el tot Žs una fracci— tambŽ. Sobretot en els apartats b i c, que Žs on apareix ? de ? o 5/2 entre ?.
+BŽ, ara torno a problemes anteriors. En el problema 1, parlaven de litres tambŽ per˜ la soluci— era en nombres enters. Aqu’ [problema 10], per exemple, el fet de posar 5/2 de litres Žs mŽs dif’cil dÕentendre. Podrien posar 2Õ54 i potser ho entendrien millor. Aqu’ estˆs treballant amb 2 unitats i mitja, en canvi lÕapartat b potser lÕentenen millor perqu Žs ?. DÕuna part, imaginar-se ? Žs una cosa, per˜ quan ja es passa dÕ1, els hi costa mŽs veure-ho en fracci—. Si els hi poses 2,5 possiblement ja veuran que s—n 2 [unitats], i lÕaltra la meitat. La dificultat ve dÕaqu’ tambŽ, si es treballa amb una fracci— mŽs gran o mŽs petita que 1.
+I en lÕapartat c, [Žs dif’cil] veure que han de dividir 2 fraccions.Ê
+R: Quins dels coneixements de lÕ’ndex de la seqŸncia didˆctica seran necessaris per poder resoldre el problema 10?
+P01: Multiplicaci— i divisi— [de fraccions], i la reducci—.
+R: Quins coneixements previs / fonaments creus que seran necessaris per poder resoldre el problema 10?
+P01: La part del tot, i el fet de que es pot fer sobre una fracci— o sobre un nombre.
+R: Moltes grˆcies!
+
+
+R: Revisem aquesta seqŸncia didˆctica titulada ÒOperacions amb fraccionsÓ. Aqu’ tens el material te˜ric que proposa un llibre de text digital per al curs de 1r dÕESO. [Es dona imprs el material te˜ric de la seqŸncia didˆctica dÕoperacions amb fraccions].
+R: Creus que aquest ’ndex estˆ ben ordenat? Seguiries la mateixa seqŸncia? Per qu?
+P02: Jo s’, seguiria el mateix ordre, tenint en compte que ja hem fet el concepte de fraccions. 
+BŽ, a vegades he fet multiplicaci— i divisi— primer [que suma i resta], perqu ho aprenen mŽs fˆcilment, perqu Žs molt mŽs mecˆnic. Els hi agrada: a la multiplicaci— els hi faig una fletxeta en l’nia recta i en la divisi— els hi faig en creu. Aleshores, com que aix˜ els hi Žs mŽs fˆcil, sÕanimen, els hi agrada, i els preparem per fer sumes i restes. Alguna vegada ho havia fet aix’, per˜ tÕhe de dir que lÕœltim cop com que va ser amb aquest llibre de text ho vaig fer seguint el seu ordre. MÕagrada de les dues maneres.
+R: Ordena els sabers de lÕ’ndex que sÕexpliquen en aquesta seqŸncia didˆctica segons la seva complexitat per als alumnes. ƒs a dir, de mŽs a menys dif’cil dÕaprendre per a un alumne, en general.
+P02: Operacions combinades amb fraccions, resta de fraccions amb diferent denominador, suma de fraccions amb diferent denominador, reducci— de fraccions a comœ denominador, divisi— de fraccions, multiplicaci— de fraccions, resta de fraccions amb el mateix denominador, suma de fraccions amb el mateix denominador5.
+R: Per qu? Quins factors fan que aquests conceptes siguin dif’cil pels alumnes?
+P02: De les operacions, per a ells/es la suma Žs la mŽs fˆcil, per tant, suma de fraccions amb el mateix denominador Žs el mŽs fˆcil. Perqu el denominador el deixen iguals, i per ells/es Žs nomŽs saber fer un pas, que Žs el de sumar els numeradors. DesprŽs per la mateixa l˜gica, la resta amb el mateix denominador Žs fˆcil perqu nomŽs han de restar. S—n exemples amb nombres enters, per tant nomŽs sÕhan de preocupar de restar els numeradors i deixar igual el denominador.
+DesprŽs passar’em a la multiplicaci— de fraccions perqu tambŽ Žs lineal: aqu’ han de saber que han de multiplicar els numeradors i tambŽ els denominadors. Les taules de multiplicar a vegades costen una mica mŽs perqu nÕhi ha que no se les saben tant, i per tant afegeixen dificultat. 
+DesprŽs vindrien les divisions que tambŽ tenen la dificultat de les taules de multiplicar i de recordar que ho han de fer en creu.
+I desprŽs he posat la reducci— de fraccions a comœ denominador, perqu aix˜ per a ells Žs un procediment nou, que potser no tenen tant integrat, que Žs el descomposar, calcular el m’nim comœ mœltiple, etc., que tambŽ implica multiplicar.
+DesprŽs la suma de fraccions, que tambŽ implica fer el comœ denominador, i la resta pel mateix.
+I per œltim, les operacions combinades perqu implica saber tota la resta. 
+R: ƒs a dir, a nivell de factors comuns de complexitat, en sabries dir algun? O sigui, quins s—n els factors que fan que un coneixement matemˆtic sigui dif’cil?
+P02: Les taules de multiplicar. A nivell de primer dÕESO, les taules de multiplicar, i quan afegeixes procediments nous.
+R: Quins coneixements previs / fonaments creus que seran mŽs rellevants / necessaris per poder aprendre amb xit aquesta seqŸncia didˆctica? M’nim 2.
+P02: Taules de multiplicar i factoritzar nombres.
+R: Qu passa amb els alumnes que tenen dubtes sobre aquests coneixements previs, Žs a dir, no els tenen suficientment assolits?
+P02: Que sÕencallen bastant, i els hi costa fer les operacions. ƒs veritat que les taules de multiplicar s—n salvables perqu acaben preguntant o utilitzant la calculadora, per˜ en realitat sÕho acaben copiant i perdent el que estaven fent.
+R: Ordena de major a menor rellevˆncia els coneixements previs de la llista6 segŸent [es dona llista impresa] per tal de poder aprendre amb xit en aquesta seqŸncia didˆctica. 
+P02: El primer, el concepte de fracci—, denominador i numerador (aquests tres com a bloc). Multiplicaci— dÕenters, potncies, i divisi— dÕenters i nombres primers, serien el segon bloc. I el tercer lÕampliaci— i reducci— de fraccions.
+R: Revisem aquests problemes. [Es donen impresos quatre problemes amb soluci—]. Corresponen a la seqŸncia didˆctica anterior.
+OrdenaÕls segons complexitat per als alumnes. ƒs a dir, de mŽs fˆcil a mŽs dif’cil de resoldre per a un alumne, en general. Digues breument per qu.
+P02: El problema 7 el veig com a part, perqu Žs mŽs aviat un exercici. 
+Com a problemes, el problema 1 seria el mŽs fˆcil.
+I aix˜ [la fracci— dÕuna quantitat] ho han fet?7 No, oi? Perqu aix˜ els hi costa molt, si no els hi ensenyes no els hi surt. Aix˜ sÕhauria dÕensenyar abans de fer el problema 6. Si tu ho poses sense ensenyar-ho, no seÕn sortiran sols.
+El problema 7 s—n operacions combinades com les que aprenen a resoldre mecˆnicament. Per tant, aquest el poso segon. I els altres dos els poso els œltims per aquest motiu [fracci— dÕuna quantitat]8.
+Basant-me en la meva experincia, el que em molesta Žs la fracci— dÕuna quantitat. Jo me nÕhe adonat que si ens trobem amb aquests problemes quan no hem explicat aquest concepte perqu potser a la seqŸncia didˆctica que proposa el llibre de text no surt, quan ens posem a fer-los alguns no ho sabien. Aleshores, alguns van mŽs avanats, altres mŽs endarrerits. Aix˜ cal explicar-ho bŽ.
+Entre el problema 6 i el 10, posarŽ el problema 10 com mŽs fˆcil que el 6, perqu Žs una multiplicaci— que Žs una mica mŽs fˆcil, i perqu el 6 a mŽs tambŽ tŽ el grˆfic.
+R: En quins aspectes creus que els alumnes tindran dificultats per la resoluci— del problema 1?
+P02: LÕapartat b els hi costaria, per˜ no et sŽ explicar ben bŽ perqu. Ho sŽ. 
+A lÕapartat a, els hi pot costar el concepte de resta [dÕenters]. NÕhi ha que els hi costa perqu no ho tenen ben assolit de primˆria. Perqu primer diu quants litres falten perqu estigui ple i desprŽs pregunta quants litres hi ha al dispensador. Aleshores ells/es han de fer un cˆlcul i una resta. Aix˜ en alguns els hi costa una mica.
+I lÕapartat c, la dificultat que tŽ Žs que vas encadenant els altres apartats. 
+ƒs un problema que s’ que li veig una certa dificultat. LÕhe posat com el mŽs fˆcil, per˜ ara veig que no. Potser quan acabi teÕl canvio.
+R: Quins dels coneixements de lÕ’ndex de la seqŸncia didˆctica seran necessaris per poder resoldre el problema 1?
+P02: La multiplicaci— de fraccions i la divisi— de fraccions.
+R: Quins coneixements previs / fonaments creus que seran necessaris per poder resoldre el problema 1?
+P02: La resta, entendre una resta. I el concepte de multiplicaci— i divisi—, a nivell conceptual.
+R: En quins aspectes creus que els alumnes tindran dificultats per la resoluci— del problema 6?
+P02: Aqu’ la primera dificultat Žs si no tenen ben assumit aquest 1, entendre la unitat com una fracci— que no tŽ denominador i que representa el tot. I desprŽs que estˆ dividit entre 1.
+R: O sigui hi ha la dificultat que lÕ1 Žs el tot, i desprŽs entendre lÕequivalncia entre lÕenter i la fracci—?
+P02: Exacte. Primer hem dÕentendre que lÕ1 equival al tot dÕuna fracci—, i segon que aqu’ [nombre enter 1] hi ha un denominador que Žs un 1 (convertir un nombre enter en una fracci—, que tŽ denominador 1). Ho veig com dues dificultats de lÕapartat b, que per aix˜ lÕhe posat com a problema complex, perqu he vist aquest 1.
+I la segona dificultat Žs la que tÕhe comentat abans dÕuna fracci— dÕuna quantitat, expressat aix’, que sˆpiguen que Žs una multiplicaci—.
+R: Quins dels coneixements de lÕ’ndex de la seqŸncia didˆctica seran necessaris per poder resoldre el problema 6?
+P02: Suma de fraccions amb diferent denominador, resta de fraccions amb diferent denominador, que inclouen denominador comœ, i multiplicaci— de fraccions.
+R: Quins coneixements previs / fonaments creus que seran necessaris per poder resoldre el problema 6?
+P02: LÕ1 com a tot dÕun conjunt, lÕequivalncia entre nombre enter i fracci—, i la fracci— dÕuna quantitat.
+R: En quins aspectes creus que els alumnes tindran dificultats per la resoluci— del problema 7?
+P02: Les œniques dificultats que es poden trobar aqu’ [en el problema 7] s—n: si no controlen bŽ les taules de multiplicar, que aix˜ els hi destorba; i la jerarquia de les operacions, que entenc que aix˜ aqu’ ja ho fan bŽ. Per aix˜ aquest potser el posaria el mŽs fˆcil. Si tot aix˜9 ho han assolit bŽ, no hi ha dificultat.
+R: No hi ha dificultat de resoldre el problema, vols dir, de trobar lÕestratgia?
+P02: No hi ha dificultat de resoldre el problema, aquest [problema 7] Žs un exercici.
+R: Quins dels coneixements de lÕ’ndex de la seqŸncia didˆctica seran necessaris per poder resoldre el problema 7?
+P02: Tots. 
+R: Quins coneixements previs / fonaments creus que seran necessaris per poder resoldre el problema 7?
+P02: No nÕhi ha. BŽ, fraccions.
+R: I aquest [equivalncia entre nombre i fracci—] que havies dit abans?
+P02: ƒs veritat, aquest s’. I bŽ, tambŽ apareixen les operacions amb enters. Aqu’ s’, perqu nÕhi ha a qui els confon: 1-3, els hi costa una mica. ƒs un punt de dificultat.
+R: En quins aspectes creus que els alumnes tindran dificultats per la resoluci— del problema 10?
+P02: La dificultat torna a ser: la fracci— dÕuna fracci—. BŽ, aquest el trobo mŽs fˆcil ara. Aqu’ lÕœnica dificultat que hi trobo Žs aquesta, per˜ la resta s—n procediments fˆcils. Sobretot la dificultat de lÕapartat b.
+Aquest ara el veig com el mŽs fˆcil, per˜ sempre i quan expliquem la fracci— dÕuna quantitat.
+R: Quins dels coneixements de lÕ’ndex de la seqŸncia didˆctica seran necessaris per poder resoldre el problema 10?
+P02: Multiplicaci— de fraccions i divisi— de fraccions. 
+R: Quins coneixements previs / fonaments creus que seran necessaris per poder resoldre el problema 10?
+P02: Fracci— dÕuna quantitat.
+R: Vols canviar lÕordre de complexitat que has donat anteriorment?
+P02: No, perqu aquest [problema 1] Žs lÕœnic que no tŽ una dificultat dÕalgun concepte que no estigui explicat en la seqŸncia didˆctica, per˜ lÕapartat b els hi costarˆ. 
+Si jo em mirŽs aquests problemes, un cop explicat el concepte de la fracci— dÕuna quantitat, aleshores entre els problemes 1,6 i 10, posaria el 10 com al mŽs fˆcil, desprŽs el 6 (un cop tambŽ explicada la unitat com a tot dÕun conjunt), desprŽs lÕ1, perqu tŽ la complexitat aquesta de la resta. I desprŽs el 7 com al mŽs fˆcil [de tots], perqu no Žs un problema, Žs un repˆs de la seqŸncia didˆctica. Per mi el 7 Žs un exercici de consolidaci— de la unitat, per tant s’ que el faria el primer.
+R: Moltes grˆcies!
+
+
+R: Revisem aquesta seqŸncia didˆctica titulada ÒOperacions amb fraccionsÓ. Aqu’ tens el material te˜ric que proposa un llibre de text digital per al curs de 1r dÕESO. [Es dona imprs el material te˜ric de la seqŸncia didˆctica dÕoperacions amb fraccions].
+R: Creus que aquest ’ndex estˆ ben ordenat? Seguiries la mateixa seqŸncia? Per qu?
+P03: En principi el concepte de fraccions ja el saben, oi?
+R: En principi hi ha una seqŸncia didˆctica prvia sobre fraccions, s’.
+P03: S’, doncs lÕinici [reducci— de fraccions a comœ denominador s’] perqu Žs la clau per poder fer totes les operacions. DesprŽs la suma, la resta, la multiplicaci— i la divisi—, em sembla correcte. I desprŽs operacions combinades.
+R: Es podria modificar lÕordre en algun dels sabers de la llista anterior? Quins i per qu?
+P03: No, potser a la introducci— reforar una mica el concepte de fracci—. Ni que sigui un recordatori. Perqu per exemple, no sŽ si surt el tema de fraccions equivalents, o si ja es dona per suposat.
+R: Ordena els sabers de lÕ’ndex que sÕexpliquen en aquesta seqŸncia didˆctica segons la seva complexitat per als alumnes. ƒs a dir, de mŽs a menys dif’cil dÕaprendre per a un alumne, en general.
+P03: El mŽs dif’cil Žs la reducci— de fraccions a comœ denominador. A partir dÕaqu’, si ja tens el mateix denominador, la suma i la resta tenen zero dificultat; multiplicaci— i divisi— Žs mecˆnica pura. A partir dÕaqu’, si surten castells de fraccions...
+R: Els castells de fraccions no formen part de la seqŸncia didˆctica.
+P03: Val, perqu sin— s’ que seria una mica mŽs dificult—s. I llavors la segona mŽs dif’cil seria la part dÕoperacions combinades. 
+Per tant, en ordre de dificultat: 1) reducci— de fraccions, 2) Operacions combinades, 3) tot el bloc dÕoperacions amb fraccions10.
+R: Per qu? Quins factors fan que aquests conceptes siguin dif’cil pels alumnes?
+P03: La meva experincia Žs que arriben a cursos avanats i encara no saben reduir a comœ denominador. I a partir dÕaqu’ venen les operacions combinades, que Žs saber-se una mica lÕordre (saber si va primer parntesis, les operacions, etc.), si lÕalumne/a no sap fer lÕanterior, es desmunta tot. Per tant s’, jo crec que la reducci— a comœ denominador Žs la clau. BŽ, tambŽ has dÕentendre les operacions, que he posat de menys dificultat, per˜ s’ que la dificultat estˆ en el denominador comœ.
+Les operacions combinades si vas poc a poc i augmentant la dificultat ho van fent bŽ, sempre i quan siguin ˆgils a lÕhora de trobar el denominador comœ, etc.11 
+R: Quins coneixements previs / fonaments creus que seran mŽs rellevants / necessaris per poder aprendre amb xit aquesta seqŸncia didˆctica? M’nim 2.
+P03: Saber factoritzar.
+R: Aqu’ hi inclous el m.c.m.?
+P03: No, perqu a vegades a 4t dÕESO ni aix˜ saben fer -i a 1r encara menys-, Žs a dir, no seÕn recorden de la part de descomposar factorialment.
+I desprŽs tambŽ Žs important el concepte de m’nim comœ mœltiple i mˆxim comœ divisor, que el confonen a vegades. Per tant, el segon seria saber trobar el m’nim comœ mœltiple.
+R: Qu passa amb els alumnes que tenen dubtes sobre aquests coneixements previs, Žs a dir, no els tenen suficientment assolits?
+P03: Jo faig classes en qu poso feina als que mŽs o menys ja van tirant: els hi poso exercicis perqu siguin aut˜noms o treballin en equip. I aleshores concentro i vaig passant amb els alumnes que tenen dificultats i els hi dono recursos mŽs espec’fics per a ells/es, perqu consolidin aquests conceptes.
+R: Perqu sin— entenc que Žs molt complicat poder arribar a la resta de conceptes...
+P03: S’.
+R: Ordena de major a menor rellevˆncia els coneixements previs de la llista12 segŸent [es dona llista impresa] per tal de poder aprendre amb xit en aquesta seqŸncia didˆctica. 
+P03: ƒs clau saber qu Žs una fracci— (incloent numerador i denominador). Segon la part de nombres primers, Žs la clau per poder descomposar. Tercer les potncies. I aleshores potser posaria la multiplicaci— i divisi— dÕenters com a quart i lÕamplificaci— i reducci— de fraccions, cinqu.
+R: Revisem aquests problemes. [Es donen impresos quatre problemes amb soluci—]. Corresponen a la seqŸncia didˆctica anterior.
+OrdenaÕls segons complexitat per als alumnes. ƒs a dir, de mŽs fˆcil a mŽs dif’cil de resoldre per a un alumne, en general. Digues breument per qu.
+P03: Sempre el que Žs operativa els hi Žs mŽs fˆcil. Per tant, el problema 7 seria el mŽs fˆcil. Perqu no han entendre qu seÕls hi estˆ demanant, Žs mecˆnica. 
+Potser faria el problema 1 com a segon de menys dificultat, el problema 10 com a tercer i el problema 6 el quart, perqu en el problema 6 tens diferents tipus de fraccions, has de saber el total, desprŽs restar. En canvi en el problema 1 nomŽs hi ha una operaci— perqu Žs ? de 16.
+S’, primer el dÕoperat˜ria [problema 7], desprŽs el problema 1 que tens un œnic cˆlcul, desprŽs el problema 10 perqu et demana la resposta en diferents opcions i per œltim el problema 6 perqu has de fer alguns passos previs abans de donar la resposta.
+R: En quins aspectes creus que els alumnes tindran dificultats per la resoluci— del problema 1?13
+P03: BŽ, a vegades quan barreges unitats amb fraccions: Ò1/4 de qu...Ó. Per tant, la barreja de la fracci— amb el concepte [fracci— dÕuna quantitat].
+En els dos primers apartats, veig que has de fer 2 cˆlculs per arribar al resultat final. No Žs una resposta directa. 
+I en lÕapartat c, la dificultat estˆ en qu depn de la resposta anterior. Si anteriorment sÕhan encallat, aqu’ ja no saben com continuar ni el qu els hi estan preguntant.
+TambŽ hi ha una certa dificultat amb els litres, els gots, saber que 5 gots s—n un litre vol dir que un got Žs 1/5. Potser aqu’ algœ podria passar-ho amb les unitats, dir que un got s—n 200 mL, es podria haver resolt diferent.
+R: Quins dels coneixements de lÕ’ndex de la seqŸncia didˆctica seran necessaris per poder resoldre el problema 1?
+P03: Multiplicaci— i divisi— de fraccions.
+R: Quins coneixements previs / fonaments creus que seran necessaris per poder resoldre el problema 1?
+P03: El concepte de fraccions, evidentment. Aquest seria lÕœnic.
+R: En quins aspectes creus que els alumnes tindran dificultats per la resoluci— del problema 6?
+P03: BŽ, primer la part de reduir a comœ denominador. 
+A vegades tambŽ es confonen amb el concepte unitari que representa la totalitat [la unitat com el tot dÕun conjunt]. Tot i que a vegades ho fan directament amb la fracci—. Tenen 19/21 i calculen quan falta per arribar a 21/21.
+En representar grˆficament entenc que no han de tenir dificultat perqu Žs el que sÕexplica a primˆria. A primˆria les fraccions es fan amb dibuixos, i per tant entenc que no Žs dif’cil. 
+I el mateix que diem en el problema anterior, a vegades al fer la fracci— dÕun concepte [fracci— dÕuna quantitat] es confonen. Al fer Òla fracci— de...Ó, a vegades no seÕn recorden de si el ÒdeÓ Žs multiplicar, ... Per tant la dificultat Žs que han de fer tots els cˆlculs de la fracci— dÕuna quantitat i desprŽs fer la resta respecte el total. SÕha de fer aquest doble cˆlcul. 
+R: ƒs a dir, de moment veus que on hi ha mŽs dificultat Žs en el fet que hagin de fer diversos cˆlculs?
+P03: S’, en fer diversos cˆlculs. 
+R: Quins dels coneixements de lÕ’ndex de la seqŸncia didˆctica seran necessaris per poder resoldre el problema 6?
+P03: Jo crec que aqu’ prˆcticament tots. BŽ, excepte operacions combinades i divisions. 
+R: Quins coneixements previs / fonaments creus que seran necessaris per poder resoldre el problema 6?
+P03: La fracci— dÕuna quantitat, el concepte de nombre 1 com a totalitat dÕun conjunt (si volem que ho resolguin aix’, perqu no Žs necessari per resoldre el problema, per˜ Žs veritat que en general sÕutilitza fora). I saber-ho representar grˆficament, tot i que aix˜ s—n continguts de primˆria. 
+R: En quins aspectes creus que els alumnes tindran dificultats per la resoluci— del problema 7?
+P03: Saber calcular el denominador comœ, saber lÕordre de les operacions (tenir-lo clar). I desprŽs el signes, amb el concepte de signes tambŽ sÕequivoquen molt. Si els hi surt alguna fracci— negativa tambŽ sÕequivoquen molt. 
+R: Aix˜ tambŽ serien parts de coneixements previs...
+P03: S’, aix˜ serien coneixements previs. La dificultat aqu’ seria aix˜.
+R: ƒs a dir, en aquest problema, com que no hi ha passes per resoldre, la dificultat estˆ llavors en el coneixement previ?
+P03: Correcte. 
+R: Quins dels coneixements de lÕ’ndex de la seqŸncia didˆctica seran necessaris per poder resoldre el problema 7?
+P03: El primer, reducci— a denominador comœ, i desprŽs tota la resta. 
+R: Quins coneixements previs / fonaments creus que seran necessaris per poder resoldre el problema 7?
+P03: El concepte de fraccions (i numerador i denominador), i els signes.
+R: En quins aspectes creus que els alumnes tindran dificultats per la resoluci— del problema 10?
+P03: A 1r dÕESO fan aix˜? Aquest [problema 10] jo no el veig de 1r dÕESO. Aquests dos conceptes [apartats b i c] s—n molt dif’cils: la fracci— dÕuna fracci—, i la divisi— de fraccions. ƒs dif’cil dÕentendre que han dÕextreure una part dÕuna part. 
+R: Com deies abans, la complexitat Žs en saber qu fer per resoldre el problema?
+P03: Correcte. MŽs endavant [cursos mŽs avanats] aix˜ seÕls hi explica amb arbres, i aleshores Žs mŽs visual. Jo penso que aix˜ per 1r dÕESO Žs dÕuna complexitat elevada.
+El primer apartat cap problema, per˜ els altres dos s’. 
+R: Quins dels coneixements de lÕ’ndex de la seqŸncia didˆctica seran necessaris per poder resoldre el problema 10?
+P03: Multiplicaci— i divisi—, i ja estˆ. 
+R: Quins coneixements previs / fonaments creus que seran necessaris per poder resoldre el problema 10?
+P03: A lÕapartat b, la fracci— dÕuna fracci—. A lÕapartat c, que has de repartir, i com que reparteixes no Žs ÒdeÓ sin— una divisi—. 
+R: La idea de que dividir vol dir repartir?
+P03: Exacte. I que abans una divisi— la faries en Ò5 parts igualsÓ, per˜ aqu’ la divideixes entre una fracci— tambŽ, tot i que la fracci— no deixa de ser un nombre. 
+R: O sigui, potser mŽs que un coneixement previ tambŽ Žs un concepte que els hi ÒxocaÓ amb el que ja saben?
+P03: S’, repartir amb una fracci—, tot i que Žs un nombre, aqu’ els hi pot xocar una mica.
+R: Vols reordenar els problemes segons la seva complexitat?
+P03: S’! Continuo pensant que el problema 7 Žs el mŽs fˆcil. 
+El problema 10 seria el mŽs dif’cil. 
+LÕordre de fˆcil a dif’cil seria: 7, 1, 6, 10.
+R: Per algun motiu, que el problema 1 sigui mŽs fˆcil que el 6?
+P03: BŽ, ara ho estic pensant i potser no. Potser al revŽs. Perqu en el problema 6 potser en el fons Žs saber el total, fer una resta i desprŽs fer... [la fracci— dÕuna quantitat]14. S’, ho canvio: el problema 6 Žs mŽs fˆcil i el problema 1 Žs mŽs dif’cil. 
+Perqu a mŽs Žs mŽs fˆcil dÕentendre [que el problema 1]: Òhi ha un total... quant li queda?Ó. En canvi al problema 1 les preguntes no s—n tant directes.
+R: Moltes grˆcies!
+
+
+R: Revisem aquesta seqŸncia didˆctica titulada ÒOperacions amb fraccionsÓ. Aqu’ tens el material te˜ric que proposa un llibre de text digital per al curs de 1r dÕESO. [Es dona imprs el material te˜ric de la seqŸncia didˆctica dÕoperacions amb fraccions].
+R: Creus que aquest ’ndex estˆ ben ordenat? Seguiries la mateixa seqŸncia? Per qu?
+P04: S’, Žs una seqŸncia l˜gica. A veure, Žs que amb fraccions precisament, el que costa mŽs, no Žs la multiplicaci— i la divisi—, sin— la suma i la resta. Jo posaria abans multiplicaci— i divisi— que suma i resta, perqu la multiplicaci— i la divisi— Žs molt mŽs intu•tiva, que no el que sÕha de fer en una suma i una resta, parlant de fraccions. Amb un altre tema no, per˜ amb fraccions jo ho veig aix’. Jo mÕatreviria a fer-ho.
+R: Ordena els sabers de lÕ’ndex que sÕexpliquen en aquesta seqŸncia didˆctica segons la seva complexitat per als alumnes. ƒs a dir, de mŽs a menys dif’cil dÕaprendre per a un alumne, en general.
+P04: Per mi, la suma i resta de fraccions amb diferent denominador Žs el mŽs dif’cil. En lÕordre de complexitat, el segŸent seria reducci— de fraccions a comœ denominador. Aquests tres, pel que jo he experimentat a classe, s—n problemˆtics.
+DesprŽs, ja que estem parlant de suma i resta, seguim amb suma i resta dÕigual denominador15, que s—n mŽs fˆcils. 
+A nivell de dificultat posaria multiplicaci— i divisi— de fraccions abans. Aleshores clar, surt una mica barrejat. Per tant, aquests dos els podr’em posar en un tercer punt. DesprŽs les operacions combinades amb fraccions. I la suma i resta de fraccions amb el mateix denominador en un cinqu punt. A veure, a grosso modo.
+R: Per qu? Quins factors fan que aquests conceptes siguin dif’cil pels alumnes?
+P04: La complexitat operacional i de concepte. Per mi Žs molt mŽs fˆcil, des del punt de vista operacional, fer multiplicacions i divisions de fraccions, que fer sumes i restes amb diferent denominador (des del punt de vista dÕoperaci— matemˆtica). Jo Žs el que he vist amb els alumnes: ells/es veuen mŽs complicat sumar i restar amb diferent denominador i la multiplicaci— i divisi— molt mŽs senzill. I ja ho veia jo com a alumne, quan era alumne.
+En [la suma i resta de]16 fraccions amb diferent denominador, has de fer servir aquesta andr˜mina [la reducci— de fraccions a comœ denominador]17, que aleshores li dona mŽs complexitat. En canvi, la multiplicaci— i divisi— de fraccions, al final, Žs una qŸesti— algor’smica. Tot aix˜ des del punt de vista operacional.
+Des del punt de vista conceptual, Žs un altre tema. Des del punt de vista conceptual jo trencaria tot aix˜. Jo no presentaria aix˜ aix’, ja dÕentrada. ƒs a dir, jo aniria a conceptes mŽs experiencials. Quan parlem dÕuna fracci—, la primera cosa Žs que tinguin clar qu Žs una fracci—. Aqu’ es dona per sabut, ho saben. Per˜, com combines les fraccions? Ja no com sumes o restes, sin—, la fracci— en si mateix, com Žs combinable? Si no hi ha una representaci— grˆfica...
+R: Et refereixes a ÒQu vol dir sumar dues fraccions?Ó?
+P04: Exacte. Per˜ aix˜ ho has de veure grˆficament -no sŽ com explicar-te. Si no ho veus clar grˆficament queda com abstracte o fins i tot: ÒYo sŽ que hay una cosa que se hace as’, pero no me preguntes m‡s. Se hace as’ porque tœ me lo has dicho, pero conceptualmente no lo entiendoÓ. No se si mÕexplico. 
+R: Aleshores conceptualment ho ordenaries diferent, o seria similar?
+P04: No, Žs que jo conceptualment comenaria per unes representacions de, primer, tenir molt clar qu significa una fracci— en les seves diferents opcions (pr˜pia i impr˜pia, etc.) -que tampoc em preocuparia molt de si Žs pr˜pia o impr˜pia-, el que jo diria Žs: ÒQuŽ representaci—n tiene esto en la vida real?Ó. Perqu es pot fer. Les fraccions, en un primer moment, com altres conceptes matemˆtics, jo veig que tenen una projecci— en la realitat. Aleshores, si vull que el seu coneixement sigui significatiu, el que farŽ Žs que agafarŽ all˜ que ells/es coneixen. DesprŽs si agafa conceptes mŽs abstractes ja en parlarem, per˜ dÕentrada jo faria aix˜, i ho intento fer. No Žs fˆcil perqu moltes vegades no tens les eines, per˜ ho intento.
+R: I aleshores a nivell conceptual quin dels conceptes dÕaquesta seqŸncia didˆctica diries que Žs mŽs dif’cil?
+P04: A nivell conceptual, el que Žs una fracci—, no crec que sigui complicat, per˜ s’ a lÕhora de la combinaci—. Per tant, tots aquests conceptes s—n complicats, perqu sigui suma, sigui resta, sigui ..., tŽ una complicaci— [conceptual]. Quan ho entens, ho entens. Per˜ totes tenen una complicaci— [conceptual]. Aix˜ Žs la deducci— que faig jo: potser si ho han posat aix’ Žs que Žs mŽs fˆcil la suma que la multiplicaci—, potser.
+Si ells no tenen clar qu Žs una fracci—, es queda tot en una qŸesti— purament abstracte. ÒTu mÕhas dit que aix˜ funciona aix’, i ho faig perqu tu mÕho has dit; per˜ no s—c capa de veure-hoÓ. 
+Abans [tambŽ] sÕha dÕhaver treballat qu vol dir el m’nim comœ mœltiple, perqu sin— no hi ha res a fer. Ja li pots dir el qu vulguis, que no sabrˆ de qu li parles.
+R: De fet, la propera pregunta Žs quins coneixements previs / fonaments creus que seran mŽs rellevants / necessaris per poder aprendre amb xit aquesta seqŸncia didˆctica? M’nim 2.
+P04: Pel comœ denominador, el m’nim comœ mœltiple. I desprŽs el mˆxim comœ divisor, per˜ bŽ, si mÕapures, el m’nim comœ mœltiple. Em sembla que el m’nim comœ mœltiple Žs el mŽs important.
+R: Qu passa amb els alumnes que tenen dubtes sobre aquests coneixements previs, Žs a dir, no els tenen suficientment assolits?
+P04: BŽ, doncs que ens encallarem per tot arreu. No tirarem. Ja ho he vist. Hi ha alumnes que sÕhan quedat clavats i hem hagut de fer un repˆs.
+R: Diries que Žs habitual?
+P04: Darrerament potser menys. SÕestˆ fent bastant bŽ i els hi queda bastant clar. Parlo del percentatge mŽs alt i no dels que tenen dificultats.
+DÕuna classe de 25, aproximadament, 5 poden tenir problemes amb aix˜, que no Žs molt. Per˜ els demŽs, almenys aqu’ a  lÕescola18, crec que sÕha treballat bastant. Jo crec que lÕMCM sÕha treballat bastant, lÕMCD no.
+R: Ordena de major a menor rellevˆncia els coneixements previs de la llista19 segŸent [es dona llista impresa] per tal de poder aprendre amb xit en aquesta seqŸncia didˆctica. 
+P04: Per mi fracci—, numerador i denominador va tot junt. Jo ho explicaria junt. 
+Per mi, el concepte de fracci— (no tant el de numerador i denominador, que ja van inclosos), Žs fonamental. 
+Jo crec que podem ensenyar fraccions sense saber, potser, qu Žs una potncia. Evidentment, si ho sabem ens pot ajudar.
+R: Aqu’ ho vam identificar pel fet de que quan calculem lÕMCM, poden sortir potncies.
+P04: Per˜ jo puc calcular-lo sense fer servir potncies. Ja sŽ que dirˆs que Žs mŽs rudimentari. Per˜ podria haver-hi un alumne/a que no sˆpiga de potncies, i podria passar perfectament el curs [de fraccions]. Tindrˆ un merder, o potser no, perqu no tots els alumnes pensen igual. ƒs a dir, no tots funcionen de la mateixa manera. Tu a ells/es els hi dius: Òagrœpalo en potenciasÓ, i hi ha qui et dirˆ: ÒÀquŽ me est‡s diciendo? Yo voy a sacoÓ. MÕhi he trobat amb aquest cas, que al final et fan cas perqu tu els has obligat.
+Per tant, per mi, fraccions, numerador i denominador s—n fonamentals. I podr’em passar endavant sense potncies. 
+Quasi et diria que els nombres primers sÕhan de saber. Com a concepte important. I Žs un tema que no Žs intu•tiu, Žs molt abstracte. ƒs un concepte normatiu. O sigui, la fracci— per mi no Žs normativa, la fracci— Žs un concepte molt real, en canvi, el nombre primer... Si que tŽ unes aplicacions quan saps de qu va, per˜ no Žs de supervivncia. Evidentment, si vols fer fraccions ho necessitarˆs, per˜ Žs un concepte que no Žs tan intu•tiu. BŽ, en tot cas, jo diria que els nombres primers s—n necessaris, en segon lloc.
+LÕamplificaci— i reducci— de fraccions Žs necessari tambŽ, per poder resoldre fraccions. Al final, acabes dient: Òsi no has fet la reducci—, no estˆ bŽÓ.
+R: TambŽ, en certa manera, Žs necessari quan calculem el denominador comœ...
+P04: Val, no ho sŽ, ho podr’em posar en tercer lloc. 
+La multiplicaci— i divisi— dÕenters la posaria en quart lloc, i el cinqu, les potncies.
+R: Revisem aquests problemes. [Es donen impresos quatre problemes amb soluci—]. Corresponen a la seqŸncia didˆctica anterior.
+OrdenaÕls segons complexitat per als alumnes. ƒs a dir, de mŽs fˆcil a mŽs dif’cil de resoldre per a un alumne, en general. Digues breument per qu.
+P04: BŽ..., aqu’ tambŽ hi ha un biaix que ve donat per manies que puc tenir jo com a professor.
+La meva primera esmena a la totalitat Žs: a la vida real, mÕagradaria saber quanta gent fa servir aix˜. Que estˆ bŽ, eh. Sobre el paper i per a qu els alumnes practiquin estan molt bŽ. Per˜ a lÕhora de la veritat, jo et diria... no ho sŽ, a mi Òme caen gordos, que no te lo puedes ni imaginarÓ. Quan comencen amb els litres, i aquestes hist˜ries...
+R: Per qu?
+P04: Perqu jo no he resolt mai cap situaci— dÕaquestes amb matemˆtiques, amb matemˆtiques sobre un paper. Les he fet de manera intu•tiva. MÕexplico? Si jo he necessitat ? de litre dÕuna cosa, jo tenia en el meu cap, qu eren ? de litre, i, si havia de fer no-se-qu, sabia que podia fer no-se-qu per solucionar-ho. Per˜ no mÕhavia posat a fer nœmeros. Perqu segurament, ja tenia clar els conceptes bˆsics, i els elements que mÕenvoltaven, eren reals. ƒs a dir, no dic que aix˜ [el problema] no pugui ser real. Per˜ Žs que en aquestes situacions, evidentment que sÕhauran fet uns cˆlculs, per˜ han sigut mŽs aviat intu•tius, no ens hem posat amb un paper. Que ens podr’em haver posat amb un paper, per˜ potser tindr’em problemes, perqu el paper requereix dÕuna formalitat que quan tu resols, no utilitzes, perqu utilitzes la teva estructura de pensament, no lÕestructura que tÕhan dit. Aquesta Žs la primera esmena. 
+R: BŽ, ara et demanaria ordenar, de mŽs fˆcil a mŽs dif’cil.
+P04: Per mi, el mŽs fˆcil Žs el problema 7. TÕho dic, en el sentit de que, fins i tot la persona que tŽ dificultats, quan ha agafat els mecanismes de resoluci—, es pot equivocar per˜ ho sap. Es pot haver equivocat, per˜ ho sap. 
+R: Per Òmecanismes de resoluci—Ó, a qu et refereixes?
+P04: ƒs com aquell que diu: Ò2+2=4Ó. Qui no sap aix˜? FixaÕt, que potser ÒNo sŽ quŽ quiere decir 4/5... no tengo ni idea, pero como sŽ c—mo se hace porquŽ alguien me lo ha ense–ado, yo te lo resuelvo. Porque sŽ que m‡s por menos es menos, y que no sŽ quŽ, no sŽ cu‡ntosÉÓ.
+Per mi, tots els exercicis dÕaquest tipus s—n els que tenen menys valor. Tenen un valor relatiu, perqu a lÕhora de la veritat no sŽ quan ho farˆs perqu tÕho farˆ una mˆquina. Tot aix˜ tŽ molt a veure amb calcular. Que al final dius, ÒÀQuŽ valor tiene calcular? Para m’, muy relativo. Porque hoy en d’a tienes aparatos que te lo calculanÓ.
+Llavors tu vols saber si Žs senzill per a qu lÕalumne/a ho pugui fer. LÕalumne/a que tŽ complicacions aqu’ [tambŽ] les tŽ en les altres bandes. Aquest exercici [7], una persona que no ha ents certes coses (com per exemple, que no tŽ clares les unitat de mesura) aix˜ tÕho pot fer. 
+R: ƒs el que deies de que no li cal entendre qu Žs una fracci—...
+P04: No sap qu Žs una fracci—, per˜ com que jo li he dit que ÒSe suman as’ y restan as’, y se multiplican as’. Y ya sabes que lo puedes hacer...Ó. O tambŽ passa que: ÒEs que yo no sŽ quŽ quiere decir el m’nimo comœn mœltiplo, pero sŽ c—mo funcionaÓ.
+Aqu’ [a lÕescola] ens fotem un fart de resoldre problemes de mœltiples i divisors, per˜ sense saber aix˜ [qu vol dir], tambŽ es poden resoldre. ÒY puedes ser un hacha, una calculadora con patas, pero no tener ni idea de quŽ significa estoÓ. 
+A veure, els bˆsics potser s’ que els saben: ÒLa fracci—n, lo de abajo son las particiones y lo de arriba lo que coges. Bueno, hasta ah’ llego, pero mucho m‡s all‡ no llegoÓ. Vull dir-te que hi ha persones que amb pocs coneixements podrien tirar endavant sense cap problema. 
+R: Entesos, aleshores el problema 7 seria el mŽs senzill.
+P04: Jo crec que s’. DesprŽs, potser el problema 1, perqu Žs mŽs intu•tiu possiblement: els litres de refresc, un quart de litre, ...
+R: Els cˆlculs que sÕhan de fer s—n mŽs clars?
+P04: S’, aqu’ estˆ molt clar, crec jo. ƒs evident que aqu’ hi ha una complicaci— [en la divisi— de fraccions]20, per˜ si aix˜ tÕho aprens (com funciona), no hi ha cap problema. ƒs que aleshores aqu’ no hi ha problema. ƒs una qŸesti— de prˆctica. ƒs com el que sap fer una divisi—... Òes lo mismoÓ.
+En canvi, aqu’ [apartat a] Žs fˆcil en el sentit de que Žs mŽs intu•tiu -penso. Perqu aqu’ tÕestˆ parlant de coses que fins i tot els nanos estan acostumats en la vida diˆria: ÒUn cuarto de litro, cuatro litros, que si tal...Ó, s—n conceptes que sÕhan treballat. I jo veig que els nanos pensen: Òaqu’ haciendo peque–as restas y peque–as historias ya lo he resueltoÓ. ƒs la meva opini—.
+DesprŽs venen els altres. Aqu’ [problema 10], per mi, Žs el que jo no faria mai. Tot aix˜ que hi ha aqu’ per resoldre aix˜. Que tampoc Žs que sigui molt complicat. Has de tenir clar qu Žs la totalitat i una srie de coses.
+I aquest [problema 6]. Aquest per mi potser s’ que Žs una mica mŽs dif’cil.
+R: En quins aspectes creus que els alumnes tindran dificultats per la resoluci— del problema 1?
+P04: Aqu’ [problema 1] les dificultats seran no tenir clar qu s—n les unitats de mesura amb les que estem treballant. ƒs a dir, si tenim clar qu significa... No hi ha massa mŽs complicacions, perqu estem parlant dÕun quart de litre i desprŽs estem parlant de gots. Saber qu Žs un quart de litre significa que tu saps de qu va saber qu Žs una fracci—, no des dÕun punt de vista numric, sin— qu representa un quart de litre. Tu el veus al cap, no com un quart, sin— com una quantitat dÕalgo. O sigui, tÕimagines un got, o una ampolla que estˆ plena fins a la quarta part. O un dibuix. Jo parteixo de la base de que, en general, mÕhe trobat a la classe que els alumnes tenen molta mŽs capacitat dÕentendre-ho quan els hi planteges des del punt de vista grˆfic o la quotidianitat que no des dÕun punt de vista en que sÕho han dÕimaginar. 
+R: Per tant, la dificultat del problema 1 estˆ amb aix˜ del quart de litre?
+P04: S’, per˜ jo crec que un quart de litre no Žs una dificultat greu. Avui dia, podr’em agafar alumnes i preguntar-los: ÒÀOye, tu sabes quŽ es un cuarto de litro, o 1 partido por 4 litros?Ó, i en general no tindrien dificultat. 
+R: Quins dels coneixements de lÕ’ndex de la seqŸncia didˆctica seran necessaris per poder resoldre el problema 1?
+P04: Evidentment, has de saber sumar, multiplicar... Ò? multiplicat per 16Ó, saber com sÕopera aix˜. I saber dividir. Bˆsicament multiplicaci— i divisi— de fraccions.
+R: Quins coneixements previs / fonaments creus que seran necessaris per poder resoldre el problema 1?
+P04: SÕha de saber qu Žs una fracci— clarament, saber qu significa, i saber alguna cosa mŽs... Has dÕhaver assimilat, de qu estem parlant quan parlem de fraccions. 
+El tema dels litres Žs un tema que evidentment, si saps que Žs un litre, et pot ajudar; per˜ -fins i tot mÕatreveixo a dir- no Žs necessari saber qu Žs un litre per resoldre aix˜. Potser Žs molt agosarat, per˜ Žs sota el meu punt de vista. Clar, ajuda, per˜ podria haver sigut qualsevol altra cosa. Si tu tens clar com funcionen les fraccions, Žs igual que siguin litres, com que siguin... la unitat que vulguis, com si fossin pomes.
+R: En quins aspectes creus que els alumnes tindran dificultats per la resoluci— del problema 6?
+P04: Aqu’ [problema 6] et demanen que ho representis grˆficament, i aix˜ significa que has de tenir molt clar com es representen les fraccions. 
+R: Aix˜ diries que Žs una font de dificultat?
+P04: Si haguŽssim treballat la representaci— grˆfica de fraccions...
+I tambŽ has de tenir clar lÕMCM. 
+Per mi Žs mŽs fˆcil el problema 1 que el problema 6, perqu el problema 1, sense tenir massa idees dÕhist˜ries sobre MCM i tal puc resoldreÕl, per˜ en el problema 6 s’ que es necessito saber aix˜.
+R: ƒs a dir, la diferncia en complexitat del problema 6 respecte el problema 1 Žs que hi ha mŽs coneixements previs que has de tenir controlats?
+P04: Coneixements previs...? Clar. TÕhan hagut dÕexplicar una srie de coses que aqu’21 en principi ja les donen per apreses. 
+Jo crec que si comencem la classe de 1r, o de 6, si no ho tenen clar i no has explicat res, seria un problema per poder resoldre aix˜22.
+DesprŽs tambŽ necessites saber multiplicar... A lÕapartat c ho necessitarˆs tambŽ. I aqu’ hi ha una cosa [la fracci— dÕuna quantitat]23, que ho has de saber. ƒs un altre coneixement que has de tenir clar.
+R: Per tant, quins dels coneixements de lÕ’ndex de la seqŸncia didˆctica seran necessaris per poder resoldre el problema 6?
+P04: Les operacions amb fraccions: suma i resta, i tambŽ veig que hi ha multiplicaci—.
+R: Quins coneixements previs / fonaments creus que seran necessaris per poder resoldre el problema 6?
+P04: Has de tenir clar qu s—n els nombres primers, qu Žs el m’nim comœ mœltiple, qu Žs tot aix˜...24
+R: Per trobar el denominador comœ?
+P04: Clar, per poder-ho resoldre i que tÕarribi a trobar el 2125. Que algœ diria: ÒBueno, 7 por 3, 21. Ya, pero esto es lo que nos ocurre siempre, que cuando son dos, vale, pero Ày cuando son tres, cuatroÉ?Ó. Jo tÕho deia per aix˜, perqu algœ dirˆ: ÒEs podria saber sense aix˜Ó. 
+R: Aquest denominador comœ Žs senzill, per˜ nÕhi ha de mŽs complicats.
+P04: Clar, nÕhi ha de mŽs complicats. Jo pensava en aix˜. 
+Per˜ et pots trobar que hi hagi persones que no tÕho resolguin aix˜, quan arribes a 1r [dÕESO]; per˜ no quatre [persones], sin— moltes mŽs.
+I desprŽs estˆ el tema del repartiment. 
+R: La fracci— dÕuna quantitat?
+P04: S’, que aix˜ jo moltes vegades veig que es confonen. Sembla una cosa molt ˜bvia, per˜ no ho Žs tant. No ho tenen clar. TÕho dic perqu mÕhi he trobat, que mÕhe quedat sorprs perqu pensava Òsi aix˜ estˆ clar’ssimÓ, i no estˆ clar. A vegades has de rec—rrer a explicar historietes, perqu sin— es perden en aquest tipus dÕoperaci—. Aix˜ Žs mŽs complex...
+R: En quins aspectes creus que els alumnes tindran dificultats per la resoluci— del problema 7?
+P04: Aqu’ podr’em discutir, i discutir molt. Se suposa que aqu’ [problema 7] han vist els nombres enters, els nombres positius, negatius i demŽs. Si sÕha vist tot aix˜, i ja tenen una jerarquia dÕoperacions, que se suposa que ja ho saben... Per mi, si ells saben els mecanismes... -que jo crec que et pots trobar amb algun alumne/a que li costi molt- per˜ per la majoria dÕalumnes [Žs senzill]... 
+Jo crec que aix˜ Žs fins i tot en el que certs professors, antigament, es basaven quan pensaven en la selectivitat o certs tipus de prova. Moltes vegades el que es mirava era aix˜ [operacions combinades]. No Žs necessari que ho entenguis tot, sin— que sˆpigues com es resol lÕalgorisme. Si tu saps com es resol lÕalgorisme, la dificultat Žs relativa. No posaria que aix˜ Žs molt complex. S’ que Žs veritat que requereix associar una srie de coses, que si el parntesi, que si la jerarquia, etc. Per˜ fins i tot una persona una mica espavilada que li posessis una pauta al costat aix˜ tÕho resoldria. 
+Trobo mŽs dif’cil altres coses. Potser el m’nim comœ mœltiple, s’, li pots posar una pauta per˜... ƒs que al final tot aix˜, en general26, amb pautes ho podries resoldre.
+El que passa Žs que el 7 no Žs un problema.
+R: Vols dir que no has de pensar en quina operaci— fer per resoldreÕl?
+P04: Clar. O sigui que tu vas a resoldre. Jo considero que tot all˜ que es va a resoldre directament, requereix de menys inversi— dÕesfor cerebral, per dir-ho dÕalguna manera, que els altres. Els altres, al final, Žs el que realment incomoda. Perqu quan et plantegen un problema dius ÒSi yo sŽ hacer todas las operaciones... ÀY ahora me metes un problema?Ó. ƒs aix˜ el que jo diria. 
+R: Quins dels coneixements de lÕ’ndex de la seqŸncia didˆctica seran necessaris per poder resoldre el problema 7?
+P04: Aqu’ necessites prˆcticament tot. Tot fa falta. Tots els mecanismes de resoluci— que es plantegen a la fonamentaci— te˜rica, no el fons, sin— els mecanismes de resoluci— fan falta tots si vols fer-ho ˆgil, rˆpid i bŽ.
+R: Quins coneixements previs / fonaments creus que seran necessaris per poder resoldre el problema 7?
+P04: Jo crec que aqu’ coneixements previs, els justos i necessaris. ƒs a dir, saber qu Žs una fracci—, per˜ no cal entrar en massa detalls. Jo puc saber aix˜, sense saber, ni tant sols, ÒquŽ significa mœltiplo o quŽ significa divisor... es que no hace faltaÓ. ÒTengo que saber c—mo se hace. Yo soy una m‡quinaÓ. Una persona una mica inteláligent, que no tinguŽs coneixements previs, si tu li expliques com es resol, aix˜ tÕho resoldrˆ, i ho puc demostrar.
+R: Si li dones exemples, vols dir?
+P04: S’, i al final aquesta persona -estic parlant dÕuna persona que tingui una certa capacitat, no els que tenen dificultats- et trobarˆ la manera de resoldre-ho. Ara, Žs molt mŽs complex resoldre els altres, quan entren qŸestions que tenen a veure amb decidir les operacions. Fins i tot et dirˆ: ÒYo lo resuelvo sin operacionesÓ. ÒY cuando le pidas operaciones te dir‡: Joder, no sŽ quŽ me est‡s diciendo.Ó 
+R: En quins aspectes creus que els alumnes tindran dificultats per la resoluci— del problema 10?
+P04: Aqu’ parlem una altra vegada de litres, de gots... BŽ, aqu’, segons com, tampoc no Žs tan dif’cil, per˜ bŽ. El que passa Žs que aqu’ [problema 10] has de tenir clar com funciona aix˜ de les capacitats. Jo crec que aqu’ per resoldre aix˜ s’ que has de tenir bastant clar com funciona el tema de les fraccions. Clar, tu em dius, com a operacions... Surten operacions (multiplicaci—, divisi—, el que sigui), que serien el que sÕha de saber. Per˜ moltes coses mŽs no.
+R: I de coneixement previ [problema 10]?
+P04: Jo crec que aqu’ sÕha de tenir clar els mecanismes de repartici—. 
+R: ÒQu significa repartir?Ó
+P04: Clar. O sigui, una cosa Žs la fracci—, que en el fons Žs una repartici—, per˜ aqu’ potser necessites anar una mica mŽs enllˆ, crec jo. Si vas una mica mŽs enllˆ, vull dir, a vegades es tracta de tenir al cap, no un mecanisme mnemotcnic, sin— tenir clar qu tÕestan demanant i qu tÕestan dient. 
+R: Tu mÕestˆs parlant, entenc, i no sŽ si Žs aix˜ el que em vols dir, que tu tens un estat inicial del problema i el gol. Llavors com tu vas pel mig per arribar a la soluci—?
+P04: Clar, perqu aqu’ hi ha un procŽs fins al final: estˆs en una situaci—, aquesta situaci— ha canviat...27
+El grau operacional no Žs complex, per˜ has de tenir clar qu et demanen i on vols arribar. Ara, no sŽ si tothom hi arribaria sense dificultats. 
+R: Abans mÕhas parlat de que si tinguŽssim unes pautes, aix˜ seria mŽs senzill de resoldre. Ho deies nomŽs pel problema 7 que Žs mŽs operacional, o per la resta tambŽ es podria utilitzar algun tipus de pauta dÕexemple?
+P04: Jo et diria que per a tot. 
+R: La pauta Žs sobre com es resol una operaci— o sobre com es resol un problema?
+P04: Podria haver-ne dels dos. El que passa Žs que jo veig mŽs complex voler pautar com es resol un problema. ƒs molt mŽs complicat que no una operaci—. Jo crec que lÕoperaci— s—n faves comptades. ƒs a dir, en el moment que nosaltres volem resoldre una operaci— combinada, si tenim clar com es fa i ho practiquem... 
+Per˜ el problema tŽ un afegit, perqu pot haver-hi sorpresa. ƒs a dir, tu pots tenir una pauta, tu pots fins i tot pautar uns tempos -com fem moltes vegades: primer, les dades...-, per˜ la resoluci— del problema en si mateix, aix˜ com ho pautes? Perqu aqu’ hi ha un mecanisme intern, que o surt o no surt. MÕentens el que et vull dir? Hi ha gent que tŽ una certa habilitat per resoldre, i en canvi hi ha gent que es frustra. I ara aqu’ potser entrar’em en com mesurem el coeficient intelálectual. Vull dir que a vegades dius Òeste es listo y este es tontoÓ. No. Simplement Žs que son plantejaments diferents. I que no tothom pensa igual. En canvi, per resoldre una operaci— matemˆtica, encara que sigui una mica complexa, al final hi ha un cam’ preestablert: si el segueixes, no et pots equivocar. En el problema, encara que puguis tenir un cam’ que et sembla que estˆ preestablert... Si Žs un bon problema, moltes vegades no es pot resoldre dÕuna sola manera, sin— que es pot resoldre de varies maneres. Tu vas a la universitat i veurˆs que resolen de forma diferent, clar, perqu cadascœ tŽ el seu sistema mental.  
+R: Per tant, definir una pauta que gui• lÕestratgia de resoluci— de problemes Žs complex (com a m’nim trobar-ne una que sigui œtil per mœltiples contextos). Per˜, per altra banda, si en aquests problemes hi haguŽs una pauta de resoluci— operativa, ajudaria a la reducci— de complexitat.
+P04: Per resoldre un problema com DŽu mana, necessitem alguna cosa que va mŽs enllˆ. Que s’, pots donar una estratgia, per˜ jo mÕhe trobat a classe alumnes que em diuen: ÒMi padre me lo ha explicado de otra maneraÓ. I aleshores dius: ÒOstres, qu ha passat aqu’?Ó. I llavors: ÒMi madre me lo ha explicado de otra maneraÓ. Tres maneres dÕexplicar-ho diferent, i resulta que la meva no lÕestan entenent. Com es possible? I lÕaltra s’? Aqu’ Žs quan sÕha dÕanalitzar. En canvi, per resoldre aix˜, pot haver-hi alguna variaci—, per˜ lÕoperaci— tot el m—n la resol de la mateixa manera. Per aix˜ potser emprenya molt el problema. 
+R: Si al costat del problema hi haguŽs una pauta sobre resoluci— dÕoperacions, ajudaria a reduir la complexitat, o no?
+P04: S’, ajudarien, clar que ajudarien. Tot el sigui una pauta ajuda.
+R: Per˜ creus que Žs una ajuda que sigui prohibitiva amb lÕaprenentatge? ƒs a dir, jo tÕestic ajudant amb una explicaci— breu sobre com es resolen les quatre operacions de suma, resta, multiplicaci— i divisi—. Tu has de triar quina operaci— i com, i desprŽs tindrˆs la pauta per ajudar-te a fer-ho. La pauta va en detriment de que tu aprenguis?
+P04: Per mi, la pauta va en detriment de que tu utilitzis els teus esquemes de pensament. Perqu resulta que tu resols les coses dÕuna manera, i jo les resolc dÕuna altra. I no em pots dir que la teva sigui millor que la meva.
+ƒs que hi ha problemes dÕalta complexitat, que els alumnes es trobaran, i a vegades no els resolen perqu resulta que han estat ensinistrats a resoldre els problemes de dues o tres maneres. ƒs evident que hi ha problemes que dius ÒNo te compliques la vida, usa esto y se ha acabadoÓ. Per˜ a mesura que anem cap a munt veiem que, aix˜ que en un moment de lÕaprenentatge Žs brillant perqu sembla que aprenen molt, Žs que potser lÕhem capat una mica aquest nen. Perqu li estem dient com ha de resoldre quan ell potser [pot fer-ho diferent]. TÕho dic sobretot per als alumnes dÕaltes capacitats. Amb aquests alumnes jo a vegades he vist que mÕhe hagut dÕarronsar, perqu he vist que lÕhe de deixar, perqu ho fa dÕuna altra manera, i potser Žs millor. I en un futur, aix˜ lÕajudarˆ a la seva vida professional. I el meu sistema no sŽ si lÕajudarˆ. SeÕls hi ha de donar mŽs llibertat en la resoluci—.
+Moltes grˆcies! 
+
+
+R: Revisem aquesta seqŸncia didˆctica titulada ÒOperacions amb fraccionsÓ. Aqu’ tens el material te˜ric que proposa un llibre de text digital per al curs de 1r dÕESO. [Es dona imprs el material te˜ric de la seqŸncia didˆctica dÕoperacions amb fraccions].
+R: Creus que aquest ’ndex estˆ ben ordenat? Seguiries la mateixa seqŸncia? Per qu?
+P05: Jo el que faria Žs, en el moment que expliquem la suma de fraccions amb el mateix denominador, explicaria tambŽ la resta de fraccions amb el mateix denominador, perqu Žs el mateix, per˜ amb signe negatiu (nombres negatius). Potser ajuda fer-ho aix’, per˜ tambŽ Žs veritat que depn de lÕalumne/a. Jo normalment ho englobo: poso Òsuma de fraccionsÓ i desprŽs Òmultiplicaci— i divisi—Ó.
+R: ƒs a dir, no fas suma i resta perqu s—n enters...
+P05: Exacte, i com que prviament, se suposa que ja han fet enters, ho explico com un conjunt. Aix’ dÕaquesta manera no tens quatre coses diferents a aprendre -que encara que no ho sembli seÕls hi fa com una muntanya- sin— que ho redueixes a la meitat. 
+I, s’, comenaria per suma, desprŽs multiplicaci— i desprŽs divisi—. Aix˜ ho mantindria. 
+R: Creus que es podria canviar algun concepte? Afectaria per al seu aprenentatge?
+P05: Depn, si a primˆria sÕha estudiat sempre primer la suma -que jo entenc que Žs mŽs intu•tiva-, desprŽs la multiplicaci— -que no Žs tan intu•tiva com la suma, per˜ una mica mŽs- i posteriorment la divisi— -que Žs la que mŽs costa, pel fet de repartir, perqu no Žs addici— sin— reducci—. Jo crec que lÕordre hauria de ser aquest. Almenys a mi Žs un ordre que em funciona i que els nens/es tambŽ tenen interioritzat. Si a primˆria decideixen canviar lÕordre, aleshores nosaltres tambŽ ens haur’em dÕadaptar.
+R: Ordena els sabers de lÕ’ndex que sÕexpliquen en aquesta seqŸncia didˆctica segons la seva complexitat per als alumnes. ƒs a dir, de mŽs a menys dif’cil dÕaprendre per a un alumne, en general.
+P05: Per la meva experincia, el que costa normalment mŽs Žs la suma i resta de diferent denominador; abans que multiplicaci— i divisi—. Perqu sÕhan de fer mŽs passos per obtenir el resultat final, i no Žs tan intu•tiu. I desprŽs el m’nim comœ mœltiple, segons la meva experincia, porta molts problemes. 
+Disculpa, nomŽs estava tenint en compte les operacions. Aleshores, el mŽs dif’cil serien les operacions combinades. I la suma i la resta i reducci— a comœ denominador desprŽs amb la mateixa dificultat28. DesprŽs potser la divisi—, si entres en el tema de simplificar, que en principi tothom ho fa. I normalment Žs mŽs fˆcil multiplicar [fraccions] que sumar. El problema Žs que un cop multipliquen, la suma a vegades els hi crea confusi— pel tema de mantenir el mateix denominador. O sigui, cap de les dues costen dÕaprendre, per˜ si haguŽs de posar una, diria que costa una mica mŽs la multiplicaci— perqu es confonen. En canvi, en la suma i resta de mateix denominador normalment mai sÕequivoquen. I a vegades un error que s’ que cometen Žs fer el m’nim comœ mœltiple a la multiplicaci—.
+R: Per qu? Quins factors fan que aquests conceptes siguin dif’cils pels alumnes?
+P05: Que hi hagi moltes coses a aprendre i que la metodologia per aprendre-les sigui diferent. Si nosaltres aprenem a sumar dÕuna manera, i la multiplicaci— segu’s una dinˆmica semblant, crec que no seÕls hi faria tan dif’cil. Si la multiplicaci— Žs diferent, perqu ja tens en compte els denominadors per˜ no els hi has el m’nim comœ mœltiple, sin— que els has dÕoperar -i a la suma no els has dÕoperar, sin— els has de mantenir igual. Aquest canvi, el que fa Žs provocar que la gent es confongui. I aqu’ estic parlant œnicament dÕoperat˜ria, no estic parlant de problemes.
+Pel que fa a operacions combinades amb fraccions, tu quan expliques la jerarquia, lÕordre en qu sÕha de resoldre una operaci— combinada, la gent el tŽ molt interioritzat. I si tu li preguntes a un alumne/a, et dirˆ Òprimer parntesis, desprs potncies, ...Ó. En canvi, a lÕhora de comenar a fer lÕoperaci—, sempre per defecte comencen dÕesquerra a dreta, sense recordar que aquest Žs lÕœltim pas. Aix˜ tambŽ Žs una de les dificultats que tenen, potser tambŽ perqu a lÕinici fan œnicament operacions senzilles de sumes i restes, i aquestes sempre es fan dÕesquerra a dreta, aquest coneixement previ el tenen interioritzat, i no els permet avanar. 
+Per tant, [els factors de complexitat] serien la construcci— de coneixements a partir dÕuns donats i les diferncies que hi ha entre uns i altres. 
+R: O sigui que el fet que pugui haver-hi diferncies entre el coneixement previ i el nou tambŽ Žs una font de dificultat.
+P05: Exacte.
+R: De fet, la propera pregunta Žs quins coneixements previs / fonaments creus que seran mŽs rellevants / necessaris per poder aprendre amb xit aquesta seqŸncia didˆctica? M’nim 2.
+P05: ñbviament, operacions amb nombres naturals, operacions amb nombres enters, i el m’nim comœ mœltiple tambŽ sÕha de saber fer.
+R: Qu passa amb els alumnes que tenen dubtes sobre aquests coneixements previs, Žs a dir, no els tenen suficientment assolits?
+P05: Aquests alumnes segueixen bŽ tot el que Žs la suma i resta de fraccions amb el mateix denominador, multiplicacions amb fraccions tambŽ una mica i divisions potser es confonen. En canvi, a la resta, quan hi ha nombres negatius aqu’ ja si no tenen el coneixement de nombres enters ja es confonen. I amb el m’nim comœ mœltiple, sobretot quan tenim diferent denominador. 
+R: Ordena de major a menor rellevˆncia els coneixements previs de la llista29 segŸent [es dona llista impresa] per tal de poder aprendre amb xit en aquesta seqŸncia didˆctica. 
+P05: Clar, Žs que van molt junts tots. [Per exemple,] nombres primers els necessites per simplificar, i el necessites per trobar el m’nim comœ mœltiple dels denominadors. I conixer una fracci— implica conixer la terminologia de numerador i denominador.
+Potncies no sŽ perqu les necessites. 
+R: Estava marcat perqu quan es calcula lÕMCM, a vegades pot ser que faci falta.
+P05: Val, per agrupar. Tot i que si tens mŽs estratgies ja no seria tan necessari. Per tant, el mŽs necessari seria fraccions, numerador i denominador. DesprŽs lÕamplificaci— i reducci— de fraccions, junt amb nombres primers. I multiplicaci— i divisi— (que tambŽ ho veig equivalent perqu cap de les dues operacions tŽ prioritat). I per œltim les potncies, perqu no Žs completament necessari, si ja tens lÕestratgia de fer el m’nim comœ mœltiple directe. 
+Aqu’, si no saps que Žs una fracci—, dif’cilment sabrˆs calcular. I per operar, serien aquestes dues30. Primer lÕamplificaci— i reducci— de fraccions i els nombres primers, i desprŽs la multiplicaci— i divisi— dÕenters. 
+R: Revisem aquests problemes. [Es donen impresos quatre problemes amb soluci—]. Corresponen a la seqŸncia didˆctica anterior.
+OrdenaÕls segons complexitat per als alumnes. ƒs a dir, de mŽs fˆcil a mŽs dif’cil de resoldre per a un alumne, en general. Digues breument per qu.
+P05: A mi lÕexperincia em diu que quanta menys lletra posis i mŽs nombres hi hagi, mŽs facilitat tenen, menys es confonen. Quan tu li poses un enunciat mŽs llarg, ja han de tenir la capacitat o la competncia de comprensi— lectora ben desenvolupada per entendre qu tÕestˆ dient lÕenunciat. 
+Per tant, normalment quan poses œnicament operat˜ria, i lÕenunciat Žs tan senzill com resol les operacions segŸents utilitzant el que faci falta, aix˜ [problema 7] per mi seria el mŽs fˆcil. Per mi aquest seria el mŽs senzill. 
+Al problema 1, a nivell de dificultat lÕœnic que has dÕentendre Žs el concepte de fracci—. Sobretot en aquesta primera part [apartat a]. I lÕaltra, s—n operacions bastant senzilles [apartats b i c] comparat amb altres que potser has de raonar una mica mŽs.
+I per mi el problema 6 seria el mŽs complet, que et demanen una mica de cada. I fins i tot et demanen una representaci— grˆfica. Per˜ que per mi sigui el mŽs complet, potser que pels nens/es sigui dif’cil...
+R: Clar, tu has de pensar quins creus que s—n dif’cils per als alumnes.
+P05: I el problema 10 Žs mŽs de raonar. No et sabria dir. 
+R: Si vols et faig algunes preguntes de cada problema, i desprŽs els ordenes.
+P05: Val, s’.
+R: En quins aspectes creus que els alumnes tindran dificultats per la resoluci— del problema 1?
+P05: Primer, que has dÕaplicar alguns coneixements no de forma directa, Žs a dir, [no] operant, que Žs com sÕha ensenyat, perqu s’ que Žs veritat que al recurs te˜ric, excepte el primer exemple, sobretot s—n exemples numrics, dÕoperaci—. Llavors aqu’ Žs aplicar un coneixement, que Žs una operaci—, a un problema de la vida real. Aix˜ passa amb el problema 1, amb el 6 i amb el 10. 
+Una altra dificultat Žs entendre -i aix˜ tambŽ els hi costa una mica- que una fracci— tÕexpressa œnicament una part i no una quantitat exacte.
+R: Una proporci—?
+P05: Exacte. I llavors passar dÕaquesta part a una magnitud, algo que tŽ una unitat. Aix˜ els hi costa una mica de relacionar. 
+Tot i que la pregunta Žs bastant senzilla, lÕœnica dificultat possible Žs veure que al final has de fer la resta, o sigui, qu Žs el que tÕestan demanant realment. 
+R: O sigui una dificultat Žs que has de fer la fracci— dÕuna quantitat, i la resta que potser no Žs tan evident?
+P05: S’, i alguns aix˜ [1/4] ho interpreten com que tŽ 0Õ25 litres, no que Žs una quarta part dels 16. Aix˜ Žs una dificultat, perqu ho operen com si fos el mateix. No entenen que representi una part o una proporci—.
+Jo aquest el veig senzillet, potser aquestes serien les principals dificultats, que tambŽ ens podem trobar en els altres.
+R: Quins dels coneixements de lÕ’ndex de la seqŸncia didˆctica seran necessaris per poder resoldre el problema 1?
+P05: Al final simplement tenim multiplicaci— i divisi— [de fraccions].
+R: Quins coneixements previs / fonaments creus que seran necessaris per poder resoldre el problema 1?
+P05: Nombres enters, i ˜bviament resoluci— de problemes. Operacions de nombres enters i raonament, o sigui, quin tipus dÕoperaci— em demanen per resoldre aquest problema. I posar unitats tambŽ Žs una dificultat.
+R: En quins aspectes creus que els alumnes tindran dificultats per la resoluci— del problema 6?
+P05: Jo crec que aqu’ les preguntes s—n bastant clares. Les dificultats tambŽ tornen a ser saber quin tipus dÕoperacions em demanen en cada cas. I el que hem dit dÕinterpretaci— de dades (quina informaci— em dona cadascuna dÕelles). Potser el que costa mŽs Žs el saber que si a tu et diuen 19/21, saber que per trobar la part que falta sÕha de restar de la unitat. Que 1 representa 21/21, i que Žs una proporci— (una altra vegada) que representa el total. Aix˜ a vegades tambŽ costa. I desprŽs, si entenen com trobar la proporci— del total [fracci— dÕuna quantitat], realment aix˜ [apartat c] Žs senzill tambŽ.
+R: Quins dels coneixements de lÕ’ndex de la seqŸncia didˆctica seran necessaris per poder resoldre el problema 6?
+P05: Suma i resta amb fraccions de diferent denominador i una altra vegada la multiplicaci—.
+R: Quins coneixements previs / fonaments creus que seran necessaris per poder resoldre el problema 6?
+P05: Tornem a estratgies per resoldre un problema. I desprŽs suma i resta de nombres enters, multiplicaci— de nombres enters, i m’nim comœ mœltiple.
+R: En quins aspectes creus que els alumnes tindran dificultats per la resoluci— del problema 7?
+P05: Aqu’ [problema 7], dificultats: normalment el que jo em trobo Žs lÕordre, i tambŽ quan hi ha nombres enters mesclats amb fraccions, perqu a alguns els hi costa posar el denominador 1.
+R: LÕequivalncia entre enter i fracci—?
+P05: Exacte, per˜ sobretot Žs lÕordre de prioritat, que acaben fent sempre dÕesquerra a dreta, en comptes de fer lÕordre o jerarquia com a tal. Crec que Žs la mˆxima dificultat que poden tenir. 
+I tornem, totes les operacions es treballen (suma, resta, multiplicaci— i divisi—), m’nim comœ mœltiple per la reducci— a comœ denominador tambŽ ho necessiten, i les operacions combinades. Es treballen tots31. 
+R: Quins coneixements previs / fonaments creus que seran necessaris per poder resoldre el problema 7?
+P05: Clar, per totes les operacions amb fraccions necessites enters i jerarquia tambŽ, per˜ ja lÕexpliques. I potser simplificaci— de fraccions, perqu diu Òsimplificant el resultat sempre que sigui possible, per tant, tambŽ com reduir una fracci—.
+R: En quins aspectes creus que els alumnes tindran dificultats per la resoluci— del problema 10?
+P05: Aqu’ la dificultat Žs tambŽ entendre la diferncia un altre cop entre proporci— i quantitat, i per tant saber quina Žs lÕoperaci— id˜nia en aquest cas per poder treure el resultat de la quantitat de litres. Jo aqu’ Žs la principal dificultat que hi veig: barreja de fracci— amb magnitud entera o natural.
+R: Quins dels coneixements de lÕ’ndex de la seqŸncia didˆctica seran necessaris per poder resoldre el problema 10?
+P05: Operacions una altra vegada, multiplicaci— i divisi—. I reducci—... al final, quan simplifica el 30/2 i els 2/12 en 1/6. Perqu no et demanen decimals ni res.
+I [altres] coneixements previs, el que hem dit, estratgia per resoldre problemes, operacions amb nombre enters... I bŽ, aix˜ no ho hem dit abans, per˜ s’ que Žs veritat que quan et demanen la tercera part dÕun valor o dÕuna quantitat [fracci— dÕuna quantitat], que sˆpigues que sÕha de multiplicar. 
+I ara tÕho posarŽ, mŽs o menys, com jo els veig de dif’cils. 
+R: S’, i pot ser que no acabis de saber perqu, per˜ tu saps el que passa a lÕaula al final, i aix˜ Žs el que mÕinteressa.
+P05: Jo crec que els hi costarien els tres problemes [1, 6 i 10]. LÕordre seria: 10, 6, 1 i 732.
+R: ƒs a dir, tot i que has posat un ordre, el que vols dir Žs que entre els problemes 1, 6 i 10 no acaba de ser molt clar. Veus molt clara la diferncia, aix˜ s’, entre aquests tres i el problema 7 dÕoperacions. 
+P05: S’. I tambŽ Žs veritat que, a vegades sembla una tonteria, per˜ quanta menys informaci— hi ha mŽs dificultats tenen. Quan mŽs especifiques, no que donis informaci— extra, per˜ quan mŽs especificat estˆ tot, mŽs facilitat tenen. En canvi, quan tu li dius una frase i dius Òvinga, digaÕm aix˜Ó, no saben quina operaci— sÕha de fer. Si tu els hi dius Òaquest i aquest han fet aix˜, quan han fet en total?Ó, aqu’ ja s’ que normalment relacionen Òval, he de sumarÓ.
+R: Creus que hi ha alguna pauta que es poguŽs donar en aquests problemes, una fitxa que poguessin tenir al costat, per reduir la complexitat? MÕestic imaginant una pauta tant per la part mŽs operativa, com per la part de resoluci— de problemes. Creus que aix˜ ajudaria? Hi ha algun tipus que ajudaria mŽs que un altre, o cap dÕells?
+P05: Jo crec que la pauta que ajudaria a lÕhora de resoldre les operacions combinades seria la jerarquia que han de seguir. Sempre tenir-la al costat, per posar lÕalarma. Perqu s’ que Žs veritat que un cop tu ja domines el que Žs lÕoperat˜ria senzilla, si tu saps sumar fraccions amb mateix denominador i restar tambŽ, sumar fraccions amb diferent denominador i restar tambŽ, multiplicar, i dividir... Si tu saps cadascuna de les coses per separat, fer-ho individualment dins dÕuna operaci— llarga ho hauries de tambŽ saber fer. Per tant, si tu tens clar quin Žs lÕordre, en principi Žs mŽs senzill. Seria com fraccionar: ÒDe tota aquesta operaci—, primer comeno amb aix˜. Aix˜ qu Žs? Una suma. Val, com Žs suma. Etc.Ó. Tenint en compte que tot aix˜ [operacions amb fraccions] ho tens clar, sin— la pauta ja no serviria.
+I per problemes, no sŽ si existeix alguna pauta genrica... Comenar llegint lÕenunciat...
+R: En aquests problemes, una pauta dÕoperacions, ajudaria? O potser ja estˆs donant part de la soluci—?
+P05: Clar, jo no donaria aquesta. ƒs aix˜, jo buscaria una pauta dÕestratgia clara, per˜ genrica s’ que Žs veritat que Žs molt dif’cil.
+R: Potser mŽs aviat a partir de prˆctica i exemples...?
+P05: S’, per˜ que s’ que tinguin clar la importˆncia dÕentendre bŽ quin Žs lÕenunciat, qu demanen... A vegades va molt bŽ subratllar, encerclar les dades, etc. I desprŽs trobar lÕestratgia dÕall˜ que he aprs. Potser no posar-li una pauta dÕall˜, per˜ s’ dir-li quins s—n els continguts que hem treballat durant aquesta unitat.
+R: Eines que tenen a lÕabast per resoldre aquest problema?
+P05: Exacte, llavors que diguin ÒAlguna cosa dÕaquestes hauria dÕutilitzar. Quina dÕelles mÕaniria bŽ ara?Ó. Aix˜ potser podria anar bŽ. LÕœnic que Žs molt dif’cil perqu aix˜ va molt bŽ generalment per les persones mŽs organitzades, i solen ser les que menys dificultats tenen amb les mates, perqu ja ho tenen al seu cap i no necessiten aquesta pauta. I per una persona que tŽ dificultats, si a sobre li poses una eina que tampoc sap utilitzar... Llavors seria una eina que pugui tenir mentre practica.
+R: Moltes grˆcies!
+
+
+R: Revisem aquesta seqŸncia didˆctica titulada ÒOperacions amb fraccionsÓ. Aqu’ tens el material te˜ric que proposa un llibre de text digital per al curs de 1r dÕESO. [Es dona imprs el material te˜ric de la seqŸncia didˆctica dÕoperacions amb fraccions].
+R: Creus que aquest ’ndex estˆ ben ordenat? Seguiries la mateixa seqŸncia? Per qu?
+P06: S’, lÕœnica cosa que potser tambŽ seria una alternativa vˆlida seria fer suma i resta amb el mateix denominador. Fer-ho primer tot amb el mateix denominador, i desprŽs tot amb diferent denominador. 
+R: I hi hauria alguna altra alternativa?
+P06: I potser la reducci— a comœ denominador, explicar-la en el moment que toquŽs. Perqu com a punt 1, jo faria primer el que Žs mŽs bˆsic que seria la suma i la resta [amb el mateix denominador]. Llavors faria com trobar el comœ denominador, i explicaria que aquest comœ denominador ens ajuda a fer la suma i la resta amb diferent denominador.
+R: Ordena els sabers de lÕ’ndex que sÕexpliquen en aquesta seqŸncia didˆctica segons la seva complexitat per als alumnes. ƒs a dir, de mŽs a menys dif’cil dÕaprendre per a un alumne, en general.
+P06: La suma i resta de mateix denominador serien els mŽs fˆcils. La resta una miqueta mŽs dif’cil que la suma. Llavors, un cop ents la reducci— de fraccions a comœ denominador, que potser els hi costa, llavors la suma [de fraccions amb diferent denominador] crec que Žs mŽs fˆcil, la resta [de fraccions amb diferent denominador] lleugerament tambŽ. Llavors, un cop fet el denominador comœ, la suma tŽ la mateixa dificultat. Multiplicaci— de fraccions ho posaria al mateix nivell. DesprŽs resta de fraccions amb diferent denominador. I operacions combinades amb fraccions, seria el mŽs dif’cil, perqu ˜bviament tens els diferents elements, ara has de pensar que un va aix’, que lÕaltre va aix’, mŽs els parntesis i lÕordre de les operacions.
+LÕordre de complex a senzill seria: operacions combinades amb fraccions, divisi— de fraccions i resta de fraccions amb diferent denominador, multiplicaci— de fraccions i suma de fraccions amb diferent denominador i reducci— de fraccions a denominador comœ, resta de fraccions amb el mateix denominador, i suma de fraccions amb el mateix denominador33.
+R: Has seguit algun motiu en concret per determinar aquest ordre? O Žs mŽs aviat per la intu•ci—?
+P06: MÕhe guiat molt en lÕordre seqŸencial. Si ho fes seqŸencial, ho faria per anar incrementant la dificultat, per tant, si aquesta Žs la meva l˜gica, entenc que tambŽ ho faig perqu la dificultat Žs aquesta.
+R: O sigui, quan abans tu ja mÕhas dit que potser canviaries lÕordre, Žs perqu ja ho faries per anar de fˆcil a dif’cil?
+P06: Correcte. MŽs que res perqu si fas un salt de dificultat, els pots perdre i desmoralitzar. 
+R: Quins coneixements previs / fonaments creus que seran mŽs rellevants / necessaris per poder aprendre amb xit aquesta seqŸncia didˆctica? M’nim 2.
+P06: Evidentment, per fer operacions combinades amb fraccions, has de saber fer operacions combinades, Žs a dir, la jerarquia de les operacions. I saber fer el m’nim comœ mœltiple.
+R: Qu passa amb els alumnes que tenen dubtes sobre aquests coneixements previs, Žs a dir, no els tenen suficientment assolits?
+P06: Llavors, en el moment de lÕexplicaci— dÕaquest punt [implicat], llavors sÕha de reforar, sÕha de repassar, aix˜. ƒs a dir, quan dius Òva, anem a fer el m’nim comœ mœltipleÓ, no deixar-los penjats de Òvinga, ara feu el m’nim comœ mœltipleÓ, sin— Òara fem el m’nim comœ mœltiple, recordem com es fa, recordem com es feia, es posava el nœmero, es desgranava...Ó.
+R: Perqu, i si no fessis el recordatori? 
+P06: Depn de lÕalumnat. Si lÕalumnat Žs t’mid i no pregunta, es queden allˆ sense saber-ho fer... Ja no sabries si Žs que no han ents el nou coneixement, o els has perdut pel coneixement previ. Llavors, aix’, abans de fer el nou coneixement, tÕassegures que tothom estˆ al mateix nivell.
+R: I que el que no estan entenent Žs el nou?
+P06: Exacte. 
+R: Ordena de major a menor rellevˆncia els coneixements previs de la llista34 segŸent [es dona llista impresa] per tal de poder aprendre amb xit en aquesta seqŸncia didˆctica. 
+P06: Numerador, denominador i fraccions ha dÕanar lligat perqu Žs lÕelement en les seves parts. Aquest segur, Žs el mŽs important. De la reducci— en parlˆvem en la reducci— de fraccions a comœ denominador, per tant, lÕamplificaci— i reducci— de fraccions la necessiten, en segon lloc. 
+Potncies aqu’ no ho lligo...
+R: Pot ser necessari en el cˆlcul de lÕMCM, tot i que Žs veritat que no Žs sœper necessari...
+P06: No, perqu si fas 2 per 2 per 2 per 2... ja estˆ. 
+Entesos, doncs potncies el que menys. 
+Posaria multiplicaci— i divisi— dÕenters, desprŽs nombres primers, i, per œltim, potncies35.
+R: Ho has ordenat seguint algun motiu o factor en concret?
+P06: Simplement, aquells que he trobat que el mateix t’tol mÕho deia. Si el t’tol mÕho diu... En les potncies no hi havia caigut, per˜ hi ha una alternativa.
+R: Revisem aquests problemes. [Es donen impresos quatre problemes amb soluci—]. Corresponen a la seqŸncia didˆctica anterior.
+OrdenaÕls segons complexitat per als alumnes. ƒs a dir, de mŽs fˆcil a mŽs dif’cil de resoldre per a un alumne, en general. Digues breument per qu.
+P06: Per dificultat, et refereixes a entendre el que et demana o dificultat tcnica a lÕhora de resoldreÕl?
+R: Qu vols dir amb cadascun?
+P06: En el sentit de que hi ha tres problemes amb parrafada i el tercer [problema 7] que Žs Òfes aix˜Ó. Aleshores, lÕexercici dÕoperat˜ria Žs senzill dÕentendre, simplement els hi suposarˆ dificultat si ho saben o no ho saben fer. En el tema de lÕenunciat, s’ que ˜bviament hi ha un punt de dificultat. 
+R: ƒs a dir, abans de que mÕho ordenis, ja mÕestˆs dient que hi hauria com dues fonts de dificultat?
+P06: A parer meu, quan tens un exercici que Žs Òfes aquest cˆlculÓ, si has ents el que seria la teoria... Simplement et demana aix˜, haver-ho ents i haver ents els passos previs. Per tant, Žs mŽs rˆpid. 
+R: Seria una complexitat que sÕassemblaria a la que hem marcat a la part te˜rica de la seqŸncia didˆctica?
+P06: S’, exacte. Quan hi ha exercicis, hi ha un punt afegit, perqu la comprensi— lectora afecta, i molt, a parer meu afecta, i molt. 
+R: Ara jo et demano que ajuntis les dues complexitats. O bŽ si vols fer dues classificacions.
+P06: Potser el problema 7 Žs complicat tcnicament, per˜ fˆcil dÕentendre. ƒs complicat bˆsicament perqu com no sˆpiguen o no hagin ents bŽ la jerarquia, no el sabran fer bŽ. Els altres s—n tcnicament mŽs fˆcils...
+Llavors jo posaria el mŽs senzill lÕ1, el 10, el 7 i el 6.
+R: Has seguit algun motiu per determinar aquest ordre?
+P06: El problema 6, com que hi ha diferents ’tems i diferents classes... Quan hi ha massa elements, es perden mŽs. Jo penso que quan hi ha mŽs elements -doncs aix˜: tres classes- es desorienten una mica. Aix˜ els hi costa. Llavors aqu’ [problema 6], com que Žs entendre-ho, presa de dades -que no sempre ho fan bŽ-, extreure les dades i desprŽs aplicar-ho, els hi costa una miqueta. Ho veig mŽs complicat que potser el 10, que Žs mŽs senzill dÕentendre, Žs un exercici com si diguŽssim lineal: tens aix˜, buscaÕm aix˜. Una mica el mateix que el problema 1. El problema 6 el veig mŽs enrevessat perqu hi ha tres classes, unes que no volen vendre, altres que volen recollir... llavors aqu’ jo crec que ja comencen a ballar les coses. I lÕhe posat mŽs dif’cil que el problema 7, perqu tot i que el problema 7 tcnicament tŽ el tema de la jerarquia, Žs fˆcil dÕentendre. 
+R: En quins aspectes creus que els alumnes tindran dificultats per la resoluci— del problema 1?
+P06: ñbviament, aqu’ a la conversi—. La conversi— Òcinc gots equivalen a un litreÓ ja Žs un punt afegit de que estem parlant dÕuna cosa i ja ho hem de transformar en una altra i, per tant, mentalment, aix˜ pot costar. 
+I [lÕapartat c] Òquants gots mŽs podrˆ servir?Ó Žs aix˜: aquest element de Òtinc aix˜, i qu podrŽ fer desprŽsÓ, crec que aix˜ costa. La divisi— en aquest cas, costa. Mentalment, crec que costa entendre que han de dividir. 
+R: Quins dels coneixements de lÕ’ndex de la seqŸncia didˆctica seran necessaris per poder resoldre el problema 1?
+P06: La multiplicaci— de fraccions i divisi— de fraccions. En certa manera, ja estˆ.
+R: Quins coneixements previs / fonaments creus que seran necessaris per poder resoldre el problema 1?
+P06: Operativa bˆsica, perqu la transformaci— [de gots a litres] ja te la diuen ells.
+R: En quins aspectes creus que els alumnes tindran dificultats per la resoluci— del problema 6?
+P06: Aqu’ [problema 6] s’, la suma de fraccions amb diferent denominador, i resta [de fraccions amb diferent denominador]. I bŽ, multiplicaci— de fraccions perqu han de saber que han de multiplicar el numerador36,37. 
+R: Quins coneixements previs / fonaments creus que seran necessaris per poder resoldre el problema 6?
+P06: El concepte de fracci— en si, que 4/7 el 7 Žs el total.
+R: ƒs a dir, la fracci— com a proporci—, que no vol dir que nÕhi hagi 7 en el conjunt.
+P06: Exacte, per tant, el concepte de fracci— en si, que Žs el que grˆficament han de representar. I un cop aix˜, el tot i el que falta (si tens 4/7, et falten 3/7). I sin— uns coneixements econ˜mics, la moneda. MŽs que res que si algœ ve de fora dirˆ ÒQu uŽs aix˜?Ó, potser fa servir iens.
+R: I a nivell de dificultat, qu creus que genera mŽs dificultat aqu’?
+P06: Jo crec que el fet de que hi hagi diferents elements, diferents classes. Hi ha 3, saps diferents informacions, cadascuna amb la seva proporci—, i has dÕentendre on has dÕanar. Aquest fet de que hi hagi mŽs elements crec que els atabala. Sense potser afegir una dificultat molt mŽs enllˆ. Jo crec que els despista. Si tu dius, una classe tŽ tant, val. Per˜ si dius 3 classes, si dius 7 classes... Llavors ja els costa mŽs. Arriba un moment ja que quant mŽs sumis crec que ja no aporta dificultat. 
+R: En quins aspectes creus que els alumnes tindran dificultats per la resoluci— del problema 7?
+P06: Que has de tenir-ho tot present. ƒs a dir, primer la jerarquia, desprŽs les sumes i les restes [de fraccions], multiplicacions i divisions [de fraccions]. O sigui, ho incorpora tot. Per tant, diguŽssim que Žs una activitat recopilatori de tot. Ho has de saber tot i bŽ.
+R: La dificultat estaria aqu’?
+P06: La dificultat Žs purament tcnica, de si tens els coneixements o no. Saps fer les operacions o no. 
+R: Seguint el que deies abans, tcnicament aquest seria el mŽs dif’cil per tu?
+P06: Tcnicament s’, mŽs que res perqu a la que falles una cosa, ja se tÕespatllen totes, i perqu suma diferents elements i afegeix coneixements previs com s—n la jerarquia de les operacions. 
+R: Per tant, de coneixements de la seqŸncia didˆctica per al problema 7 mÕhas dit que s—n tots?
+P06: S’.
+R: Quins coneixements previs / fonaments creus que seran necessaris per poder resoldre el problema 7?
+P06: No nÕhi ha, si nÕhi ha ara no hi caic. BŽ, el fet de quan un nombre no tŽ denominador, Žs perqu Žs 1 [equivalncia entre enter i fracci—].
+R: En quins aspectes creus que els alumnes tindran dificultats per la resoluci— del problema 10?
+P06: Dificultats, aqu’ [problema 10] veig, primer, saber que mig litre Žs 1/2. Simplement que aqu’ no tÕho posen. En els altres et posen la fracci—, i aqu’ et diuen ÒmigÓ. 
+ÒHi ha ? de litre i el teu amic et demana que omplis 2/3...Ó, per tant, ja no Žs fins al total sin— que Žs dÕuna fracci— a una altra. Per mi [la dificultat] Žs entendre, primer mentalment i conceptualment cap a on has dÕanar, que potser costa mŽs que dÕuna part fins al total, i un cop fet aix˜, quin Žs el cˆlcul que has de fer. En aquest cas Žs una multiplicaci— que tampoc no tŽ mŽs [dificultat]. 
+ƒs mŽs enrevessat lÕenunciat. I per aix˜ crec que posarŽ el 10 com a mŽs enrevessat38. Simplement per aix˜: Òmig litreÓ, Òel teu amic et demana que omplis fins a 2/3Ó, i et demana no nomŽs aix˜, sin—: ÒI quan hi posarˆs a cada got?Ó. Per tant, crec que comprensivament, Žs mŽs esps que el primer.
+R: Entendre la situaci— que estˆ passant?
+P06: Correcte.
+I llavors, faig un canvi en lÕordre de complexitat: 1, 6, 7, 10 [de mŽs senzill a mŽs complex].
+Segueixo amb les dificultats del 10: ÒQuants gots omplirˆs amb les 5 gerres de beguda, segons les indicacions del teu amic?Ó. O sigui, s’, no Žs gaire comprensiu. No ajuda massa a entendre qu vols fer. Potser, si vols practicar un cˆlcul no seria el millor exemple, crec. No Žs el millor exercici.
+R: ƒs a dir, creus que aquest exercici no Žs un exercici adequat per aquesta seqŸncia didˆctica?
+P06: No. Perqu el veig massa complicat. MÕho estic imaginant a lÕaula i veig braos aixecats. ÒQu em demana?Ó.
+Aquest exercici no ajuda a saber si lÕalumnat sap traslladar el text a vocabulari matemˆtic i saber lÕoperaci—. Jo crec que sÕembolica una mica.
+R: SÕha complicat massa per a que sigui efectiu?
+P06: S’. Per mi no cal. Aquest Žs, per aquells alumnes que van endavant i que van tirant, com un repte. Simplement pel fet aquest de que sÕembolica una mica.
+Si vull utilitzar una divisi— o una multiplicaci—, potser amb un altre exemple... Amb aquest mateix [problema 1], jo crec que Žs mŽs directe.
+R: ƒs aquest fet de que lÕenunciat hi dona moltes voltes i posar molts elements?
+P06: Gots, gerres, ... s’. Jo crec que aix˜ fa que no ajudi massa.
+R: Quins dels coneixements de lÕ’ndex de la seqŸncia didˆctica seran necessaris per poder resoldre el problema 10?
+P06: Multiplicaci— i divisi— [de fraccions]. Hi ha potser que en lloc de multiplicar hi faria servir la suma, per sumar 5/2, tambŽ es podria fer aix’. 
+R: Quins coneixements previs / fonaments creus que seran necessaris per poder resoldre el problema 10?
+P06: El concepte de volum, litre... ho han de saber. I crec que, a priori, mŽs que aix˜, no.
+R: Entesos, en principi ja estem. Vols repassar lÕordre de complexitat dels problemes?
+P06: S’. Per tant, jo crec que el problema 1 Žs mŽs senzill, passar’em al problema 6, al problema 7 simplement per la dificultat tcnica i el problema 10 pel tema de la comprensi—.
+R: Moltes grˆcies!
+
+
+R: Revisem aquesta seqŸncia didˆctica titulada ÒOperacions amb fraccionsÓ. Aqu’ tens el material te˜ric que proposa un llibre de text digital per al curs de 1r dÕESO. [Es dona imprs el material te˜ric de la seqŸncia didˆctica dÕoperacions amb fraccions].
+R: Creus que aquest ’ndex estˆ ben ordenat? Seguiries la mateixa seqŸncia? Per qu?
+P07: BŽ, la veritat Žs que a mi aquestes coses sempre em creen dubtes. Perqu, clar, una possibilitat seria potser comenar amb alguna cosa que demostrŽs la necessitat de saber sumar fraccions. Per qu volem saber fraccions? ÒPer qu les vull sumar jo les fraccions? Doncs mira les vols sumar perqu si jo et dic que tal...Ó O inclœs amb algun dels problemes que hi ha per aqu’. ÒI aix˜ com ho sumes?Ó I a partir dÕaqu’ Žs molt fˆcil sumar quan tenim uns numeradors que es refereixen als mateixos denominadors, per tant, quan parlem de fraccions que poden comparar-se; per˜ no Žs tan fˆcil quan parlem de fraccions que no poden comparar-se. I llavors introduir a partir dÕaqu’ la reducci— de fraccions a comœ denominador. Per tant, jo potser mŽs aviat ho faria aix’.
+R: Entesos, partint mŽs dÕun exemple i no tant des dÕuna seqŸncia ordenada.
+P07: S’. DesprŽs per a nosaltres professors i per a mi professora, estes seqŸncies s—n estupendes, perqu la veritat Žs que jo soc de mentalitat bastant quadradeta i sistemˆtica. Per˜ tambŽ tinc la impressi— que a lÕhora de crear necessitat dÕaprenentatge, que Žs una cosa que... hi ha alumnes que aprenen perqu s’ i qualsevol cosa que els hi plantegis... ÒVaig a aprendre aix˜? Molt bŽ, doncs vaig a aprendre aix˜Ó. Aprendre, aprendre, aprendre. Per˜ hi ha alumnes que a vegades tenen poca motivaci—, i aquesta Žs la realitat. Jo estic amb alumnes mŽs grans, a partir de 4t dÕESO, per˜ la motivaci— per lÕaprenentatge la tenen poc. I penso, que amb una cosa aix’... ÒPer a qu hem de saber sumar fraccions? Doncs mira, per exemple per a aix˜.Ó.
+R: Dins dÕaquest ordre, creus que hi hauria la possibilitat de canviar-lo?
+P07: Jo crec que lÕordre estˆ bŽ. El que passa Žs que si ho fas com jo dic: partint dÕaquest exemple concret que tÕexplicita la necessitat dÕaprendre a sumar fraccions perqu sin— no podrˆs resoldre all˜, clar, aleshores primer introdueixes el concepte de suma amb el mateix denominador, i desprŽs vindria la reducci— de fraccions a comœ denominador. [Sin—] inicialment jo tinc dues fraccions i Òara vaig a reduir-les a comœ denominadorÓ, i per a qu? Li dius perqu sin— no les puc sumar, perqu sin— no estic comparant coses iguals.
+R: Ordena els sabers de lÕ’ndex que sÕexpliquen en aquesta seqŸncia didˆctica segons la seva complexitat per als alumnes. ƒs a dir, de mŽs a menys dif’cil dÕaprendre per a un alumne, en general.
+P07: Jo crec que sumar amb el mateix denominador, restar amb el mateix denominador i multiplicar fraccions estˆ mŽs o menys al mateix nivell39. Perqu multiplicar fraccions, en el moment que tu saps que es multipliquen numeradors i multipliquen denominadors, al final lÕœnic que has de fer Žs saber-te les taules de multiplicar. 
+Jo crec que la reducci— de fraccions a comœ denominador Žs mŽs complexa, no tant pel que sÕha de fer per reduir a comœ denominador com pel que significa reduir a comœ denominador. O sigui, hi ha una complexitat intr’nseca en el concepte, per dir-ho dÕalguna forma. MÕentens?
+R: Del que vol dir, del que significa el concepte?
+P07: Exacte. Per tant, ho posaria [la reducci— de fraccions a comœ denominador] com mŽs complex que la divisi—. 
+Per tant, vaig a posar-te en segon lloc la divisi— de fraccions. Llavors la reducci— de fraccions a comœ denominador la incorporo aqu’ en el nivell tres de dificultat [junt amb suma i resta de fraccions amb diferent denominador]. 
+I les operacions combinades clarament seria lÕœltim, perqu aix˜ Žs tremend’ssim el que arriba a costar. Per molt que els hi diguem, Žs igual. Costa molt, costa molt, costa molt. I la dificultat on estˆ? Doncs mira no ho sŽ... ƒs que no ho sŽ perqu costa tant. Si tu saps que primer has de fer aix˜40... Potser Žs que quan veuen tot el carro allˆ... Perqu al final amb les operacions combinades, quan s—n mŽs fˆcils -s’, hi ha gent que la p’fia, que els hi poses 2/3 Ð ? x 3/5 sense parntesi i ja la p’fia-, per˜ quan acostumen a pifiar-la Žs quan tens un cert carro. Ja quan veuen el carro aquell, ja els hi crea una espcie de cosa... que els confon. No ho sŽ, per˜ jo sense dubte diria que operacions combinades estaria en dificultat mˆxima.
+R: Per tant, pel que dius, entenc que una de les fonts o factors de dificultat seria que hi hagi vˆries coses a fer? I en la reducci— a comœ denominador tambŽ comentaves el tema conceptual.
+P07: S’, el que passa Žs que en matemˆtiques a vegades pots funcionar, i pots funcionar bŽ, sense entendre qu hi ha al darrere. I aix˜ Žs veritat, perqu al final les matemˆtiques no deixen de ser una eina. Naturalment, quan ho entens ho gaudeixes molt mŽs, i estˆs molt mŽs preparada per poder assumir coneixements nous, i per poder-teÕn sortir. Per˜ jo crec que tenim molts alumnes que funcionen a matemˆtiques relativament bŽ sense saber ben bŽ qu passa allˆ, per˜ van tirant.
+R: De fet, la propera pregunta Žs quins coneixements previs / fonaments creus que seran mŽs rellevants / necessaris per poder aprendre amb xit aquesta seqŸncia didˆctica? M’nim 2.
+P07: Han de saber sumar i restar, nombres naturals. Estem parlant de nombres naturals, perqu aqu’ els enters encara no sÕhan introdu•t.
+R: Sembla que s’ que surten al llarg de la seqŸncia didˆctica. Com a m’nim en algun problema.
+P07: Clar... aqu’ veig que parla de fracci— oposada. En el moment que parles de fracci— oposada, introdueixes un nombre racional, i quan introdueixes un nombre racional, has hagut de parlar dÕenters, i has de saber el que Žs un enter negatiu. Per˜ tinc la sensaci— de que tal com estˆ plantejada la unitat... no sŽ si ho introduiria. Jo crec que no introduiria el concepte de fracci— oposada. O sigui, si tu el que vols Žs restar fraccions, i estˆs treballant amb fraccions, no tŽ sentit que et plantegis a una fracci— mŽs petita restar-li una de mŽs gran. Perqu tot aix˜ comena a tenir sentit quan has treballat amb els enters. Per tant, jo aquesta part (de fracci— oposada) lÕeliminaria. Crec que no tŽ sentit, perqu a mŽs a mŽs no ho necessites per restar fraccions. Ho necessites quan et surten fraccions negatives, per˜ aqu’, per com estˆ plantejat, les fraccions negatives no venen al cas. 
+I aqu’, el comentari que et volia fer Žs que jo crec que amb el llenguatge matemˆtic hem de ser molt estrictes, i que el que diem realment sigui el que cal. I aqu’, per exemple, estem dient una cosa, que jo crec (amb tots els respectes) que no estˆ ben dita. Diu: Òla fracci— oposada a una fracci—, Žs aquella que Žs igual a la primera...Ó. No. No Žs igual a la primera, perqu li posarˆs un signe menys. Per tant, no Žs igual a la primera. Jo amb aix˜ amb els alumnes soc molt exigent. ÒNo, per˜ el que jo volia dir era...Ó. No, no Žs el que volies dir, Žs el que has escrit. I jo crec que no es pot dir que Òla fracci— oposada a una fracci—, Žs aquella que Žs igual a la primera...Ó. No Žs veritat, no ho Žs perqu si fos igual a la primera seria ella mateixa, i no.
+R: Quina Žs la importˆncia sobre lÕaprenentatge dels alumnes de curar aquest llenguatge en matemˆtiques, ara que en parles?
+P07: BŽ, jo crec que aix˜ Žs important en qualsevol assignatura. A mi per exemple mÕagrada molt la llengua, mÕagrada molt la lingŸ’stica. I sempre insisteixo molt en que tÕhas dÕexpressar correctament i has de dir el que vols dir. Per tant, si vols dir una cosa, no meÕn diguis una altra. 
+R: Pot ser que a la llarga aix˜ pugui portar problemes en lÕaprenentatge?
+P07: I tant. I, centrant-nos en les matemˆtiques, a mesura que les matemˆtiques es comencen a complicar... Clar, jo faig matemˆtiques a 2n de Batxillerat. Clar, el tipus de conceptes i de relacions amb qu treballes a 2n de Batxillerat, o saps ben bŽ qu Žs cada cosa i expresses ben bŽ qu Žs cada cosa, o acabes escrivint unes igualtats que son falses. El t’pic alumne que escriu Òl’mit de tal cosa, igual a...Ó i es deixa la paraula Òl’mitÓ. Perdona, aquesta igualtat Žs falsa.
+R: Porta a confusions futures...
+P07: Molt’ssim. Jo crec que aquestes coses no ens les podem permetre. Enlloc, per˜ Žs que en matemˆtiques porten a moltes confusions. I jo tambŽ soc professora de f’sica. I no es pot fer f’sica dÕun cert nivell sense un cert de matemˆtiques. Jo faig f’sica a 2n de Batxillerat, i aix˜ en f’sica pot tenir unes conseqŸncies que ni tÕexplico... 
+Per tant, has de saber molt bŽ... Quan escrius una igualtat, jo sempre els hi dic als alumnes: un signe igual Žs sagrat. Quan escrius un igual, asseguraÕt que el que hi ha a lÕesquerra de lÕigual Žs exactament igual que el que hi ha a la dreta. I si no Žs igual, no hi posis un igual, posaÕm una altra cosa. PosaÕm un punt i coma, posaÕm una fletxa, ..., per˜ no mÕescriguis un igual. Perqu estˆs escrivint una cosa que es falsa, i et descomptarŽ -que Žs el llenguatge que entenen els alumnes.
+Aix˜ Žs el que volia comentar.
+R: Aleshores, a nivell de coneixement previ, hav’em parlat dÕoperativa, que pel que dius de moment seria de nombres naturals. Algun altre element de coneixement previ?
+P07: I tambŽ les taules de multiplicar. Jo crec que se les han de saber. Hi ha corrents que diuen que no cal, per˜ jo estic absolutament en contra. Si no et saps les taules de multiplicar, qualsevol operaci—... El teu cap jo no sŽ... Per tant, has de saber treballar i fer qualsevol tipus dÕoperaci— amb nombres naturals, has de saber-te les taules de multiplicar, i has de saber factoritzar nombres.
+R: Qu passa amb els alumnes que tenen dubtes sobre aquests coneixements previs, Žs a dir, no els tenen suficientment assolits?
+P07: Doncs que no anirem bŽ, anirem malament. Hem de fer alguna cosa per a qu ho sˆpiguen. Un alumne que arriba a 1r dÕESO hauria de saber totes les taules de multiplicar, hauria de saber treballar amb naturals, i... ara no meÕn recordo, per˜, a 6 factoritzen? O sigui els conceptes de m’nim comœ mœltiple i mˆxim comœ divisor, si els fan a 6, aix˜ sÕha de saber. Ho sento...
+I desprŽs, han de conixer els signes de desigualtat, perqu aqu’ els estˆs utilitzant. Per poder expressar que una fracci— Žs mŽs gran o mŽs petita que una altra, has de conixer els signes de desigualtat i no confondreÕls. Utilitza lÕestratgia que et doni la gana, cadascœ mentalment utilitza la que vol, per˜ has de tenir una estratgia mental per no confondre el ÒmŽs petit queÓ amb el ÒmŽs gran queÓ. Aix˜ Žs bˆsic.
+R: Ordena de major a menor rellevˆncia els coneixements previs de la llista41 segŸent [es dona llista impresa] per tal de poder aprendre amb xit en aquesta seqŸncia didˆctica. 
+P07: BŽ, aqu’ no estˆ la suma i resta de nombres naturals. Veig que has posat multiplicaci— i divisi— dÕenters.
+R: Si vols, pots afegir-los.
+P07: I tant. Jo poso naturals perqu jo penso que les fraccions es poden comenar a treballar sense conixer els enters. 
+La suma i resta de nombres naturals Žs fonamental, el concepte de fracci—, clar, sÕha hagut dÕintroduir abans tambŽ. Per tant, fracci—, numerador i denominador, i suma i resta de naturals, estarien al mateix nivell42. La multiplicaci— dÕenters, que per a mi seria de naturals, tambŽ dins dÕaquest [primer] mateix nivell. I la divisi— dÕenters... no veig clar perqu.
+R: LÕhem identificat per la part de factoritzaci—.
+P07: S’, clar.
+Amplificaci— i reducci— de fraccions tambŽ Žs important, per˜ aix˜ ja estaria en un segon nivell. Junt amb els nombres primers, la divisi— dÕenters, i les potncies43, que suposo que estan aqu’ per la factoritzaci—.
+R: Revisem aquests problemes. [Es donen impresos quatre problemes amb soluci—]. Corresponen a la seqŸncia didˆctica anterior.
+OrdenaÕls segons complexitat per als alumnes. ƒs a dir, de mŽs fˆcil a mŽs dif’cil de resoldre per a un alumne, en general. Digues breument per qu.
+P07: Per mi el problema 6 Žs el mŽs fˆcil, i desprŽs els problemes 1, 7 i 10 estan al mateix nivell de dificultat.
+R: En quins aspectes creus que els alumnes tindran dificultats per la resoluci— del problema 1?
+P07: Estem barrejant parts amb litres, Žs a dir, Òen comenar la festa, saps que al dip˜sit li falta ? per a que estigui pleÓ. ƒs a dir, li falta una quarta part, per˜ no li falta un quart de litre. Llavors aqu’ has de tenir molt clar aix˜. 
+DesprŽs, aqu’ [apartat b] et torna a parlar de capacitat, perqu tens 5 gots, i et diu que 5 gots equivalen a un litre. I desprŽs ho barreja i diu que ja nÕha servit 15. O sigui estˆ tota lÕestona barrejant unitats (aqu’ la unitat era un got, aqu’ era un distribu•dor de refrescos, ...) i aix˜ ho estˆ barrejant amb quantitats expressades en litres. Jo crec que aix˜ complica perqu has de tenir el cap molt ben situat i dir ÒAra de qu em parlen? I ara com relaciono una cosa amb lÕaltra?Ó. Per aix˜ crec que aquest Žs mŽs complicat.
+R: Quins dels coneixements de lÕ’ndex de la seqŸncia didˆctica seran necessaris per poder resoldre el problema 1?
+P07: Per resoldre aquest... BŽ, una cosa que aqu’ no estˆ que Žs el concepte de fracci—.
+R: BŽ, just la segŸent pregunta Žs respecte els coneixements previs, si vols els pots barrejar.
+P07: Clar, han de tenir molt clar el concepte de fracci—. Molt clar, clar’ssim, qu significa. 
+R: I la fracci— aqu’ en aquest cas, com a proporci—, entenc.
+P07: Aix˜ Žs fonamental. Per una banda tenir molt clar el concepte de fracci—. I desprŽs de la seqŸncia didˆctica qu han de fer servir...? Han de saber dividir fraccions. El que passa Žs que aquestes coses alguns tambŽ les fan sense saber dividir fraccions, compten Òpor el cuento de la viejaÓ i van fent. Van comptant i sÕho imaginen grˆficament i seÕn surten. Jo crec que aix˜ tambŽ Žs vˆlid. 
+Per tant, si seguim la resoluci— tal i com estˆ feta aqu’: [a lÕapartat a] qu significa una fracci— dÕuna determinada quantitat, per˜ aix˜ ho pots entendre com saber multiplicar fraccions, o saber qu significa una fracci— dÕuna determinada quantitat... Per tant, estrictament, estic pensant que per a resoldre bŽ aquest problema [1] nÕhi hauria prou -encara que no sabessis res de tot aix˜- amb tenir molt clar el concepte de fracci—. Si tu tens molt clar el concepte de fracci—, encara que no sˆpigues tot aix˜, este problema el pots resoldre igualment. DesprŽs clar, si saps multiplicar i saps dividir fraccions i tens clar’ssim que pots representar aix˜ amb un producte o una divisi—, doncs has de saber multiplicar i dividir fraccions, per˜ no et cal en realitat. O sigui, la dificultat del problema vindria per lo altre [el concepte de fracci—], i crec que fins i tot tŽ mŽs grˆcia, perqu vol dir que estˆs entenent perfect’ssimament el concepte de fracci— i la importˆncia que tŽ en un problema com aquest.
+R: En quins aspectes creus que els alumnes tindran dificultats per la resoluci— del problema 6?
+P07: BŽ, jo crec que aquest Žs un problema fˆcil. Perqu aqu’ estˆ clar’ssim que aqu’ et donen dues coses i les has de sumar. Aix˜ Žs un problema t’pic dÕuna suma que els hi posen als nens/es petits, el que passa Žs que aqu’ has de sumar fraccions. I per tant aqu’ s’, has de saber sumar fraccions i has de saber reduir a comœ denominador, perqu sin— redueixes aix˜ a comœ denominador, ho tens malament. Per˜ des del punt de vista conceptual, Žs molt mŽs fˆcil. Si tu ja saps sumar fraccions... 
+Llavors, lÕapartat b tindria la dificultat de que 1r C ha aportat el que et falta per la unitat sencera, per˜ tambŽ novament estem en el mateix: si tu entens el concepte de fracci—, i saps que entre les dues (entre 1r A i 1r B) han aportat 19/21, el que falta per al total s—n 2/21, i inclœs no necessites plantejar aquesta resta.
+Per tant, has de saber sumar [fraccions amb diferent denominador], i [fraccions amb diferent denominador] restar o tenir molt clar aquest concepte, i desprŽs, a lÕapartat c, es tracta de calcular la fracci— dÕun nombre. Jo crec que aix˜ no tŽ mŽs dificultat que saber com es calcula una fracci— dÕun nombre determinat. 
+Jo crec que aquest problema Žs mŽs fˆcil, Žs mŽs directe. Has de pensar menys. Jo el veig molt mŽs mecˆnic. I en aquest sentit el veig menys dif’cil.
+I del que has de saber, o et saps bŽ el concepte de fracci—, o bŽ saps multiplicar fraccions i sumar i restar fraccions [amb diferent denominador].44
+R: En quins aspectes creus que els alumnes tindran dificultats per la resoluci— del problema 7?
+P07: Aquest [problema 7] no tŽ la dificultat dÕentendre Òqu mÕestan demanantÓ. ÒTÕestic demanant que facis aquesta operaci—, la fas i punt.Ó. El problema Žs tenir molt clares les regles de la jerarquia de les operacions. I no sŽ perqu es fan embolics. 
+A vegades intento pensar perqu... ƒs un tema de concentraci—? Perqu quan a vegades tenen aquesta operaci— [4/5 Ð 2/7:1/2]45 i va i fan primer la resta i desprŽs la divisi—... I els hi dius: ÒPer˜ tu no veus...Ó, i llavors ÒAi, s’...Ó. Clar, per˜ on tenies el cap? Jo no sŽ si Žs un tema de concentraci—, o de donar importˆncia realment a all˜ que estˆs fent. BŽ, concentraci— segur, perqu hi ha dificultats de concentraci— importants. I desprŽs potser tambŽ Žs un tema de voler fer les coses bŽ, Žs a dir de donar importˆncia a que les coses es facin ben fetes. Quan diuen ÒAi, s’, mÕhe equivocatÓ, doncs home, no tÕequivoquis, que tÕŽs igual equivocar-te? Jo crec que el tema va mŽs enllˆ dÕun tema de dificultat matemˆtica en si mateixa. ƒs bastant un tema de concentraci—... 
+Clar, i aqu’ es posen en joc vˆries coses: has de saber dividir fraccions, has de saber-les restar i has de saber reduir a comœ denominador. Tot aix˜ Žs el que es posa en joc aqu’, a banda de saber que primer fas la divisi— i desprŽs fas la resta. ƒs tot aix˜, per˜ a veure, no Žs tan complex aix˜ en si mateix. La complexitat en tot cas vindria perqu lÕassignatura de matemˆtiques tŽ un component dÕuna necessitat de concentraci— i de ganes de voler fer les coses ben fetes, que jo crec que a molts alumnes els hi falta. I aqu’ la pifiem. I jo aix˜ no sŽ com sÕarregla... BŽ, clar, suspenent-los. Per˜ com ara Žs tan dif’cil que suspenguin...! No perqu ho sˆpiguen, sin— per altres motius...
+I ara mÕestic mirant lÕapartat b. LÕapartat b Žs mŽs fˆcil que el primer, perqu per a ells, el parntesi per algun motiu Žs molt evident. Llavors entre els apartats a i b, hi hauria mŽs alumnes que farien bŽ lÕapartat b que no pas lÕapartat a, perqu el parntesi el porten molt millor.
+I pel que fa a lÕapartat c, el parntesi teÕl farien bŽ. Suposo perqu [el parntesi] Žs molt grˆfic: Òel parntesi tanca i per tant tinc molt clar que he de saber qu passa dins dÕall˜ que estˆ tancatÓ -estic pensant en veu alta- Òuna vegada ja sŽ que ha passat dins dÕall˜ tancat...Ó ja podem comenar-la a pifiar. I per tant, si no em concentro, si no mÕhi fixo, la pifio. 
+R: Quins dels coneixements de lÕ’ndex de la seqŸncia didˆctica seran necessaris per poder resoldre el problema 7?
+P07: TÕhas de saber la regla de la jerarquia de les operacions, has de saber multiplicar fraccions, has de saber dividir fraccions, has de saber sumar i restar fraccions, i has de saber reduir a comœ denominador. DÕaqu’ ho has de saber tot, perqu aqu’ hi ha de tot. 
+R: Quins coneixements previs / fonaments creus que seran necessaris per poder resoldre el problema 7?
+P07: Les operacions combinades, que se suposa que ja les han aprs abans amb els nombres naturals, i saber operar amb nombres naturals, perqu sin— no podrˆs treballar amb fraccions. I tambŽ tornen a sortir les taules de multiplicar perqu hi ha productes. 
+R: En quins aspectes creus que els alumnes tindran dificultats per la resoluci— del problema 10?
+P07: Estem una mica com al problema 1. LÕapartat a Žs fˆcil, estaria a nivell 1. LÕapartat b Žs mŽs complicat, perqu hi ha gots dÕun quart de litre, Òi el teu amic et demana que els omplis fins a 2/3 de la seva capacitatÓ, Òquants litres posarˆs a cada got?Ó. LÕapartat b seria a nivell 2 o 3. I lÕapartat c, quan ja tens que la resposta anterior Žs un sis, plantejar la divisi— Žs mŽs fˆcil. Per tant, el mŽs gros dÕaquest problema Žs lÕapartat b, perqu Žs el que barreja les capacitats amb el significat dÕuna fracci— (Òels 2/3 dÕun got, quants litres s—n?Ó).
+R: Quins dels coneixements de lÕ’ndex de la seqŸncia didˆctica seran necessaris per poder resoldre el problema 10?
+P07: Per poder fer aix˜, aqu’ torna a ser molt important el concepte de fracci—. Molt. Aqu’ s’ que Žs molt œtil saber dividir fraccions, perqu sin— et pots fer bastant dÕembolic, i saber multiplicar fraccions. 
+R: Quins coneixements previs / fonaments creus que seran necessaris per poder resoldre el problema 10?
+P07: El concepte de fracci—, si Žs que sÕha de considerar com un coneixement previ, que no estigui incl˜s a la fonamentaci— te˜rica de la seqŸncia didˆctica. I desprŽs, sÕha de saber multiplicar nombres naturals, saber-te les taules de multiplicar. I clar, aqu’ tambŽ surt una cosa: 5/2 dividit per 1/6 Žs 30/2. I 30/2 Žs el mateix que 15. Tu has de saber tambŽ -que aqu’ no estˆ i penso que Žs un concepte molt œtil- que una fracci— no deixa de ser una divisi— indicada. I aix˜ et facilita molt la vida quan ho tens clar. 
+R: Entenc que tambŽ segons el qu et preguntin, saber si Žs millor deixar-ho en fracci— o calcular la divisi—.
+P07: Exactament. Aix˜ Žs una altra cosa, ÒQuants gots omplirˆs? 30/2... On vas amb 30/2?Ó, deixant de banda que 30/2 tampoc seria una fracci— irreductible, i normalment Žs demana. 
+Jo hi ha una cosa que faig, per˜ aix˜ cadascœ fa com vol. Sempre que els alumnes han de dividir dues fraccions, jo no els hi dic mai -o no els hi diria mai, perqu quan mÕarriben a 4t dÕESO se suposa que ja saben fer totes les operacions amb fraccions, per˜ la pifien bastant- com a producte creuat. Per a mi dividir una fracci— Žs multiplicar la primera per la inversa de la segona. Perqu si tu tens clar que dividir fraccions Žs multiplicar la primera per la inversa de la segona, aix˜ et permet escriure-ho prviament i aix˜ et permet simplificar. I simplificar prviament quan tu estˆs multiplicant fraccions Žs bastant interessant. En algunes no, per˜ quan tens nombres elevats, simplificar abans et facilita bastant la vida. I desprŽs perqu mŽs endavant a 4t dÕESO tÕensenyarem a treballar fraccions algebraiques, i aqu’ Žs fonamental.
+R: ƒs veritat que en el cas de lÕapartat c del problema 10, si ho fŽssim aix’, potser ja no caldria ni fer la divisi— final.
+P07: Correcte, Žs que ja no caldria. Per tant, jo crec que a la llarga, encara que a ells/es no els hi sembli, perqu no els hi sembla, Žs molt mŽs œtil expressar una divisi— de fraccions com el producte de la primera per la inversa de la segona.
+R: Moltes grˆcies!
+
+
+R: Revisemos esta secuencia did‡ctica titulada ÒOperaciones con fraccionesÓ. Aqu’ tienes el material te—rico que propone un libro de texto digital para el curso de 1¼ de ESO. [Se da impreso el material te—rico de la secuencia did‡ctica de operaciones con fracciones]. 
+R: ÀCrees que este ’ndice est‡ bien ordenado? ÀSeguir’as la misma secuencia? ÀPor quŽ?
+P08: Yo no lo har’a as’. Yo har’a conjuntamente suma y resta con el mismo denominador, y luego plantearles ÒÀQuŽ pasar’a si el denominador es distinto? Si lo podemos pensar igual o noÓ. Para que ellos intenten razonar. Yo pienso que siempre ellos tienen que entenderlo antes de decirles un mŽtodo (Òpaso 1, paso 2,ÉÓ). Entender el concepto antes de que ellos hagan Òel m’nimo comœn mœltiplo, arreglar el denominador, ÉÓ. Entonces, les pondr’a un ejemplo gr‡fico. El t’pico muy f‡cil son los pasteles, para que entiendan que para sumar y restar con el mismo denominador quŽ tienen que hacer, para que vean que el mismo denominador lo mantenemos y el numerador sumo o resto, y luego quŽ pasa si son distintos. Yo siempre intento buscar, que entre toda la clase, busquen quŽ tenemos que hacer -m‡s o menos-. Si veo que no sale nadie, intento guiarlos con preguntas, y luego hacemos un ejemplo con ese gui—n paso a paso. Lo hago con todos los temas en general. 
+Entonces, har’a primero suma y resta con el mismo denominador. Luego vemos que hay un problema con el distinto denominador, y por lo tanto pasar’a a reducir comœn denominador, entonces lo aplico. Y luego la multiplicaci—n y la divisi—n, eso s’ que lo mantendr’a. Y evidentemente, las operaciones combinadas. 
+R: Ordena els sabers de lÕ’ndex que sÕexpliquen en aquesta seqŸncia didˆctica segons la seva complexitat per als alumnes. ƒs a dir, de mŽs a menys dif’cil dÕaprendre per a un alumne, en general.
+P08: Para los alumnos, el m‡s dif’cil es la suma y resta con denominador diferente. Segundo, las operaciones combinadas con fracciones. Tercero, la reducci—n de fracciones a comœn denominador. Cuarto, la multiplicaci—n y la divisi—n de fracciones. Y quinto, la suma y resta de fraccione con el mismo denominador.
+R: ÀHay algœn motivo?
+P08: Yo en primero de la ESO no he estado pr‡cticamente, pero vemos que en los cursos siguientes el fallo t’pico est‡ en la sumas y restas, que suman numerador y denominador tambiŽn. 
+R: ÀPor quŽ les pasa?
+P08: Porque no lo entienden. Memorizan. Intentan mecanizar muchas veces sin entender. Y estos errores los suelen hacer los que tienen m‡s dificultades en la asignatura, que muchas veces yo creo que es porque en su d’a no entendieron el porquŽ. A veces son chicos que son aplicados, pero van a aprobar, Òy no lo entiendo, memorizoÓ. Pero claro, el memorizar se olvida. Si no lo han interiorizado, se pierde. 
+O sea, muy importante insistir en que lo entiendan, antes de mecanizar. Yo insisto mucho. Intento asegurarme -pasa que en bachillerato a veces vamos a marchas forzadas porque no hay tiempo- que primero entiendan el concepto. Si es algo gr‡fico intento dibujar, o poner algo en la pantalla o lo que sea. Y que entonces una vez lo entiendan, que ellos intenten escribir la teor’a conmigo. Porque si lo entienden, si se les olvida algœn paso, es m‡s f‡cil de deducir que no al revŽs.
+R: Quins coneixements previs / fonaments creus que seran mŽs rellevants / necessaris per poder aprendre amb xit aquesta seqŸncia didˆctica? M’nim 2.
+P08: Aqu’ para reducir a comœn denominador tienen que entender tambiŽn quŽ es el m’nimo comœn mœltiplo. A parte de que se sepan el paso -como se hace-, [tienen que saber] por quŽ es as’. 
+R: O sea, saberÉ
+P08: QuŽ es y quŽ significa -que tambiŽn se les olvida. Normalmente van directos, multiplican todos y sale muy grande. Y luego no saben simplificar -o es m‡s dif’cil de simplificar. Si lo entienden, es m‡s f‡cil.
+Y las tablas [de multiplicar] algunos no se las saben tampoco. 
+El tema de la calculadora, para m’ la prohibir’a totalmente (ves que cogen la calculadora para hacer 3 x 4). Esto para m’, no lo entiendo. No sŽ si es porque soy de la antigua escuela, y a nosotros no nos dejaban utilizar calculadora nunca. Y ahora yo creo que en este tema estamos fallando. Yo creo que no es importante memorizar, pero hay muchas cosas queÉ El nuevo sistema de ahora est‡ muy enfocado a que tienen que entender. Pero yo tambiŽn creo que es importante memorizar. Y esto yo creo que lo estamos perdiendo. 
+R: ÀO sea, es importante automatizar las tablas?
+P08: Hay cosas que yo creo que s’ o s’ se tienen que saber. Desde mi punto de vista, y lo sigo pensando. Tengo un pensamiento un poco antiguo, porque ahora las nuevas tendencias no son esto. Pero yo hay cosas que creo que s’ hay que sabŽrselas. Y que el alumno tiene que investigar y averiguar por su cuenta, s’, pero un concepto matem‡tico que se ha estado a–os en sacar es imposible que un chaval lo saque en dos d’as, es imposible. Entonces, es como que se contradice. Hay cosas que pienso que se tienen que saber s’ o s’ de memoria y si tienes tŽcnicas o recursos para memorizarlas, mejor. Pero si no las tienes, hay algunas cosas, como las tablas por ejemplo, que yo creo que son necesarias de saber. 
+R: ÀAlguno m‡s? Me has dicho el m’nimo comœn mœltiplo y las tablasÉ
+P08: Y luego, para hacer operaciones combinadas, el orden de las operaciones tambiŽn es imprescindible. Entonces, yo creo que es fundamental el trabajo de la primaria. 
+R: ÀQuŽ pasa con los alumnos que empiezan esta unidad did‡ctica y tienen dudas sobre estos tres conocimientos que me has dicho?
+P08: Mira, mi opini—n general, ya no solo de esto sino de cualquier asignatura, es que yo creo que estamos pasando a los chavales de curso sin tener los conocimientos b‡sicos. ÀQuŽ va por la l’nea de no desmotivar al alumno? S’. Pero es que yo creo que a veces tambiŽn tenemos que saber d—nde est‡n nuestros l’mites y si hemos aprendido o no hemos aprendido. 
+R: ÀTœ te est‡s encontrando con este problema?
+P08: S’. Nos estamos encontrando que llegan alumnos a bachillerato, y dices: ÒEn serio me puedes preguntar -me lo dijo un alumno de bachillerato el otro d’a- que un nœmero mayor que cero es lo mismo que positivo?Ó. En segundo de bachillerato. Y dices: ÒPor Dios, Àd—nde estamos?Ó. Mi punto de vista es que estamos pasando de curso sin tener una base b‡sica para ir subiendo. Lo pienso en primaria y lo pienso en la ESO; y de primero a segundo [de bachillerato] tambiŽn.
+R: ÀY cuando empiezan por ejemplo esta unidad did‡ctica y no tienen estos conocimientos previos, quŽ pasa con el alumno?
+P08: Pues que se pierde. Y otro problema que tenemos: intentamos llegar a todos, pero las ratios no nos lo permiten. Entonces si bajamos el nivel perdemos a los que quieren aprender, porque se aburren; y si subimos el nivel perdemos a los que no llegan. Entonces aqu’ tenemos un conflicto con la ratio tambiŽn que tenemos, que no nos permite avanzar como queremos ni como necesitamos.
+R: Ordena de major a menor rellevˆncia els coneixements previs de la llista46 segŸent [es dona llista impresa] per tal de poder aprendre amb xit en aquesta seqŸncia didˆctica. 
+P08: Bien, si no saben multiplicar enteros, es que no se saben las tablas tampoco. O sea que la multiplicaci—n de enteros ser’a el primero, porque es algo como muy b‡sico. Si no se saben el nombre del numerador y del denominador tampoco es muy importante, aunque s’ que es verdad que como lo nombramos, sino lo conocen... Pero lo saben todos, nunca he tenido problemas de que no sepan que es el numerador y el denominador. 
+El concepto como tal de fracciones [segundo]. Y despuŽs: amplificaci—n y reducci—n de fracciones, potencias, nœmeros primos, divisi—n de enteros, y numerador y denominador47.
+R: Revisem aquests problemes. [Es donen impresos quatre problemes amb soluci—]. Corresponen a la seqŸncia didˆctica anterior.
+OrdenaÕls segons complexitat per als alumnes. ƒs a dir, de mŽs fˆcil a mŽs dif’cil de resoldre per a un alumne, en general. Digues breument per qu.
+P08: De dif’cil a f‡cil: problema 1, problema 10, problema 7 y problema 648.
+Este [el problema 1] por comprensi—n lectora, ya para empezar no saben ni lo que les piden. Este [el problema 10] tambiŽn, y mezcla de unidades, no sŽ porque aqu’ se hacen unos l’osÉ Que no hay que hacer cambio de unidades, pero bueno, no sŽ porque se ofuscan. Luego este [problema 7], que aunque hayan combinaciones, los que son buenos lo saben hacer y los que no mecanizan el procedimiento, por lo tanto, lo sacan. Y este [problema 6] es el m‡s f‡cil porque es como muy directa la pregunta. No tienen que razonar. Es f‡cil, la comprensi—n lectora de este es f‡cil.
+R: En quins aspectes creus que els alumnes tindran dificultats per la resoluci— del problema 1?
+P08: Empieza preguntando como lo contrario. Es decir, te dice lo que le falta y aqu’ te pregunta lo que hab’a al principio. Es comprensi—n lectora, yo veo la comprensi—n lectora. Que no leen. El problema es que no leen. Les cuesta mucho la comprensi—n lectora. Y luego quieren ir muy r‡pido.
+R: Quins dels coneixements de lÕ’ndex de la seqŸncia didˆctica seran necessaris per poder resoldre el problema 1?
+P08: El concepto de fracci—n (quŽ es). Y aqu’ te est‡ haciendo una divisi—n, pero en realidad no hace falta ni la de fracciones. Podr’as dividir por 5. O sea que aqu’ es m‡s el concepto de lo que significa la fracci—n en s’. 
+R: Quins coneixements previs / fonaments creus que seran necessaris per poder resoldre el problema 1?
+P08: El c‡lculo b‡sico. Ni fracciones. Para m’ esto es primaria. 
+R: En quins aspectes creus que els alumnes tindran dificultats per la resoluci— del problema 6?
+P08: Aqu’ la dificultad es la operatividad. En este tipo de problemas, yo creo que no suelen tener problemas de comprensi—n porque son preguntas directas sin mucho razonamiento. Pero aqu’ s’ que hay operatividad de fracciones, con denominador diferente, el concepto de fracci—n que la tienen que quitar de la parte entera [fracci—n de una cantidad]. 
+R: Quins dels coneixements de lÕ’ndex de la seqŸncia didˆctica seran necessaris per poder resoldre el problema 6?
+P08: En este caso, en este apartado [a], la suma de fracciones con denominador diferente, por lo tanto requiere reducir a comœn denominador. El concepto de fracci—n igualmente al venir la resta de denominador distinto. Y aqu’ [apartado c] el concepto de fracci—n. O el concepto o si mecanizan, como se multiplica. 
+R: Quins coneixements previs / fonaments creus que seran necessaris per poder resoldre el problema 6?
+P08: El concepto de fracci—n y operatividad b‡sica.
+R: En quins aspectes creus que els alumnes tindran dificultats per la resoluci— del problema 7?
+P08: En el orden de las operaciones, muchas veces hacen tal cual se lo encuentran [de izquierda a derecha]. Y la suma y la resta la hacen directamente, suman numerador y suman denominador -o resta en este caso. 
+R: ÀEs m‡s comœn tener errores cuando hacen una operaci—n combinada o el mismo que te hace un error cuando hace una suma luego la hace tambiŽn en la combinada?
+P08: Bueno, es que yo creo que el que lo hace en la combinada es porque ya no se lo sabe de antes. Y encima cuando lo ve m‡s grande ya peor. Y si vieran las torres estas que hac’amos Ð que tampoco hace falta hacerlas tan exageradas Ð pues peor todav’a.
+R: Quins dels coneixements de lÕ’ndex de la seqŸncia didˆctica seran necessaris per poder resoldre el problema 7?
+P08: Si es el t’pico ejercicio de puro c‡lculo, aqu’ est‡ todo. Necesitan un poco todo. 
+R: Quins coneixements previs / fonaments creus que seran necessaris per poder resoldre el problema 7?
+P08: Las tablas de multiplicar. Imprescindibles. Y un poco de orden de operaciones que tambiŽn se ve en primaria. Bueno, y si entienden el concepto de fracci—n a veces ayuda. 
+R: En quins aspectes creus que els alumnes tindran dificultats per la resoluci— del problema 10?
+P08: Aqu’ yo creo que la mayor’a no har’a fracciones. Medio litro: 0,5. Y no te dar’an esto [5/2] sino que te dar’an 2,5. Que no pasa nada. Pero si estamos trabajando con fracciones, que lo entiendan. 
+R: Es decir, Àuna dificultad ser’a entender que se utilicen fracciones para resolver este tipo de problema?
+P08: Bueno, s’É Ellos te preguntar’an: ÒÀpodemos trabajar sin fracciones?Ó. Ellos te preguntan eso. Pero la gracia es que vean la relaci—n de fracci—n con decimal. Que entiendan el concepto de fracci—n tambiŽn, no deja de ser lo mismo. 
+Y aqu’ [apartado b], los vasos de ?, y te pide que rellenes hasta 2/3. Las mezclas de fracciones, 2/3 de ? esto no lo entienden, esto les cuesta. Ellos aprenden que tienen que multiplicar, pero yo creo que muchos no acaban de ver porquŽ. Pasa que lo acaban haciendo, porque mecanizan. 
+Y aqu’ [apartado c] lo mismo. Si piensan en fracciones, el concepto de que tengan que dividirÉ En cambio, si les hubiŽramos dado decimales yo creo que lo entienden m‡s, que tienen que dividir. Entonces yo creo que aqu’, a lo mejor, si lo hacen con decimales (en vez de poner medio litro ponen un 0,5) trabajan mejor. La dificultad yo creo que es la fracci—nÉ
+R: ÀDentro de esta situaci—n?
+P08: S’. El trabajarlo con fracci—n y no con algo que a veces visualizan m‡s -con el 0,5-, que les resulta m‡s f‡cil verlo, y utilizarlo en la calculadora claro. 
+R: Me has hablado de la idea de que muchas cosas las acaban mecanizando. ÀEsto que consecuencias tienen en los futuros cursos?
+P08: Se les olvida. 
+R: Con lo cual, Àpasa a ser conocimiento previo no adquirido?
+P08: Exacto. 
+R: ÀOs est‡is encontrando cada vez m‡s con alumnos que llegan a cursos m‡s avanzados con faltas de conocimiento previo? ÀDir’as que hay una tendencia o ha sido siempre as’?
+P08: Yo lo veo de unos a–os para aqu’, y sobre todo a partir de la pandemia. Cada vez los alumnos tienen menos nivel, en general. No sŽ, para m’ tenemos un problema de base, que se nos est‡n escapando de las manos las cosas b‡sicas. Una lectura bien hecha, y una comprensi—n lectora bien hecha es muy importante en todos los ‡mbitos (y no solo en matem‡ticas). Y yo creo que estamos tendiendo mucho a trabajar en grupo y para m’ esto es un fallo. Hay cosas que s’ que va bien trabajarlas en grupo, pero yo creo que tambiŽn los chicos tienen que aprender a trabajar solos. En un grupo, se difumina si un chico llega o no llega, se pierde. Y el que trabaja, trabaja el doble. Esto es lo que yo estoy viendo. Claro, yo estoy en los cursos m‡s superiores y tienen que trabajar de manera individual, y yo creo que no saben. 
+En cuarto de la ESO, por ejemplo, los que ya han empezado con proyectos y dem‡s, yo veo que esto se est‡ perdiendo. Parece que todo el mundo vaya bien, pero para m’ es mentira.
+R: ÀTiene que ver lo que dec’as antes sobre pasar curso?
+P08: S’ que es verdad que a lo mejor nosotros tenemos que cambiar. El hecho de que un chico no apruebe tenemos que intentar expresarle de alguna manera que no pasa nada porque un examen, o una prueba, o un trimestre lo haya suspendido. Y intentar buscar recursos para ayudarle y motivarlo. Pero yo creo que est‡ bien que un chaval vea, esto no lo he asumido. Y no Òestˆ en procŽs dÕassolimentÓ, porque cuando nos separamos estamos en proceso de divorcio, y estamos en proceso de todo. Yo creo que un chaval no es malo que vea una nota de un 2 o un 5. No pasa nada. Significa que todav’a no has aprobado, pero no significa que no te lo vayas a sacar.  Entonces, para m’ los estamos poniendo en una burbuja. 
+R: ÀEntonces tœ crees que es real el problema de ir pasando curso?
+P08: Van pasando de curso, acarreando carencias b‡sicas que no las est‡n recuperando en ningœn momento. Y eso, o lo frenamos y conseguimos que lleguen ah’, o subiendo yo creo que las carencias van aumentando, baja autoestima, mal comportamiento en el aula -pero no porque sean malos chicos, sino porque no saben ni entienden, su manera de disimular de cara a los de m‡s de no entender es Òno aprendo porque no quiero, y no porque no puedoÓ, es decir, ellos tambiŽn enmarcaran y les da vergŸenza, entonces su manera de reflejarlo es Òme porto mal, hago ver que no estudio, no hago deberes, pasoÓ. Y a lo mejor no pasas, es que te da vergŸenza porque no sabes continuar o seguir. 
+Este es mi punto de vista. No creo mucho en el sistema nuevo. 
+Yo creo que el sistema antiguo hay que arreglarlo, pero creo que el sistema nuevo no est‡ funcionando. 
+R: ÀCu‡ndo hablas del sistema nuevo, hablas del aprendizaje basado en proyectos?
+P08: S’. S’ que es verdad que el sistema antiguo tiene sus puntos flojos, como todos. Y yo creo que tendr’amos que trabajar en arreglar esos puntos flojos. Pero yo creo que el tema de proyectos, el cambio que hay en la educaci—n para m’ no est‡ funcionando. Desde mi punto de vista.
+R: Moltes grˆcies!
+
+
+R: Revisem aquesta seqŸncia didˆctica titulada ÒOperacions amb fraccionsÓ. Aqu’ tens el material te˜ric que proposa un llibre de text digital per al curs de 1r dÕESO. [Es dona imprs el material te˜ric de la seqŸncia didˆctica dÕoperacions amb fraccions].
+R: Creus que aquest ’ndex estˆ ben ordenat? Seguiries la mateixa seqŸncia? Per qu?
+P09: Jo et diria que dins de la reducci— a comœ denominador jo el primer que explicaria seria el MCM. A mi sempre em costa molt dÕentendre aix˜. Jo s—c mŽs partidˆria dÕexplicar primer la teoria i desprŽs fer un exemple perqu ho entenguin.
+ÒReducci— de fraccions a comœ denominadorÓ, ja em peta una mica el cervell, per llenguatge dÕells [els alumnes]; tenint en compte que tinguin clar qu Žs un numerador i un denominador, que seria lÕstep49 previ.
+Entenc que primer ve divisibilitat, per˜ jo primer explicaria el m’nim comœ mœltiple. I aleshores, a partir dÕaqu’ diria: Òuna cosa molt important de les fraccions Žs el denominador comœÓ, perqu entenguin la comparaci—, i a partir dÕaqu’ ja faria suma, resta, multiplicaci— i divisi—.
+R: Es podria modificar lÕordre en algun dels sabers de la llista anterior? Quins i per qu?
+P09: S’, no cal separar suma amb mateix denominador i suma amb diferent denominador. Jo ho explicaria tot junt com a Òsuma de fraccionsÓ. Per mi no s—n dos temes diferents, perqu reduir a mateix denominador estˆ relacionat amb la fracci— irreductible.
+R: Ordena els sabers de lÕ’ndex que sÕexpliquen en aquesta seqŸncia didˆctica segons la seva complexitat per als alumnes. ƒs a dir, de mŽs a menys dif’cil dÕaprendre per a un alumne, en general.
+P09: Jo et diria que la suma i la resta els hi Žs mŽs dif’cil perqu han de fer el m’nim comœ mœltiple. La dificultat estˆ en que sˆpiguen fer el m’nim comœ mœltiple. Un cop ho tenen clar, Žs sumar i restar. O sigui, la complexitat no Žs [en] lÕoperativa de lÕoperaci— sin— [en] el previ. 
+DesprŽs la multiplicaci— de fraccions seria molt fˆcil per ells [els alumnes], i la divisi— tambŽ, perqu ho memoritzen: divisi— en creu i multiplicaci— en l’nia. Potser et diria que la divisi— Žs mŽs fˆcil perqu ho fan en creu.
+I a mi Žs que la reducci— a comœ denominador no mÕagrada...
+R: ƒs a dir, a tu no tÕagrada que ho posin fora? Ho posaries dins, en el moment dÕexplicar la suma i la resta?
+P09: S’, perqu tu desprŽs els hi demanarˆs la irreductible. Jo ho faria impl’cit, no expl’cit. ƒs a dir, que fos part de la suma i de la resta. 
+I desprŽs una altra cosa que tambŽ mÕhe apuntat: la irreductible en els fons Žs dividir a dalt i a baix pel mateix nombre, per˜ aix˜ Žs diferent de fraccions amb denominador comœ i comparaci—.
+R: O sigui aqu’ potser el fet dÕutilitzar la paraula Òreducci—Ó Žs el que confon?
+P09: Jo diria que el tema de Òreducci— de fraccions a comœ denominadorÓ sÕhauria dÕexplicar com Òcomparaci—Ó. Jo el primer que faria Žs m’nim comœ mœltiple, desprŽs comparaci— de fraccions, i desprŽs les operacions: suma, resta, multiplicaci— i divisi—, i operacions combinades.
+R: I el mŽs dif’cil quin creus que Žs?
+P09: El m’nim comœ mœltiple. Perqu a 3r dÕESO encara no ho saben fer.
+R: Per qu creus que passa?
+P09: Perqu no ho entenen. Perqu no saben fer una descomposici— factorial, perqu no entenen el concepte. Amb una altra professora vam fer un dossier per a 1r de Batxillerat social de m’nim comœ mœltiple. ƒs greu. 
+I desprŽs una cosa que a mi no mÕagrada gens Žs la fracci— oposada, perqu els ensenyen a restar amb la fracci— oposada. Em costa molt dÕentendre perqu els hi ensenyen a restar aix’ en aquest llibre de text. Perqu si venim de fer enters, on diem que tot tŽ un signe, i Žs suma i hi ha un ordre de signes, perqu de cop i volta ara li giro el nombre o li canvio el signe. Jo no ho explico mai.
+R: ƒs afegir complexitat?
+P09: Si tenen molt clara la regla dels signes, perqu els hi hem dÕexplicar lÕoposat? Si el concepte dÕoposat ja lÕhan fet quan han treballat enters, perqu els hi ensenyem a restar amb lÕoposat? No sŽ... 
+Igual que dividir amb la inversa. O fas la creu o fas la inversa i multipliques, que Žs el mateix. ƒs afegir dificultats.
+R: Quins coneixements previs / fonaments creus que seran mŽs rellevants / necessaris per poder aprendre amb xit aquesta seqŸncia didˆctica? M’nim 2.
+P09: Mœltiples i divisors, la descomposici— factorial... Clar, aqu’ donen per fer que saben fer la descomposici— factorial. I el m’nim comœ mœltiple, que tambŽ ho donen per fet.
+R: Qu passa amb els alumnes que tenen dubtes sobre aquests coneixements previs, Žs a dir, no els tenen suficientment assolits?
+P09: La suma i resta... adŽu. Si no saben fer el m’nim comœ mœltiple, la suma i la resta no la sabran fer... i la multiplicaci— i la divisi—, de sort. Per˜ si els fan comparar, desprŽs ja no. 
+R: Revisem aquests problemes. [Es donen impresos quatre problemes amb soluci—]. Corresponen a la seqŸncia didˆctica anterior.
+OrdenaÕls segons complexitat per als alumnes. ƒs a dir, de mŽs fˆcil a mŽs dif’cil de resoldre per a un alumne, en general. Digues breument per qu.
+P09: ƒs que aqu’ hi ha dues coses diferents. El problema 7 Žs cˆlcul pur, i els altres s—n de raonament. 
+R: Vols dir que hi ha dificultats diferents? En qu consisteix cadascuna?
+P09: S’, Žs un tema de llenguatge. Si en els problemes 1, 6 i 10 tens problemes de comprensi—, et costarˆ entendre i fer el raonament matemˆtic. Si tu has memoritzat un procediment, aix˜ [problema 7] Žs cˆlcul -no hi necessites la part de raonament.
+Hi ha alumnes que s—n molt bons raonant, que desprŽs no et saben fer el procediment matemˆtic, tot i que Žs raro trobar-tÕho.
+Per˜ com a fˆcil i mecˆnic et diria que aquest [problema 7]. Aqu’ has de saber lÕordre de les operacions i mecˆnica. No hi ha part de pensar, de raonament. 
+R: En quins aspectes creus que els alumnes tindran dificultats per la resoluci— del problema 1?
+P09: Han de saber fer aquesta operaci—: han de saber fer ? de 16. Han de saber com es calcula la fracci— dÕun nombre, que no sÕexplica en els continguts te˜rics de la seqŸncia didˆctica.
+En el segŸent apartat, has de saber aplicar la divisibilitat. Que 15 entre 5 et donarˆ els litres que has servit. 
+I en aquest darrer apartat jo ho dividiria, no utilitzaria fracci—. 
+R: Tu creus que aqu’ utilitzar fraccions afegeix dificultat per als alumnes?
+P09: S’, no ho sabrien veure.
+R: Quins dels coneixements de lÕ’ndex de la seqŸncia didˆctica seran necessaris per poder resoldre el problema 1?
+P09: Fracci— dÕun nombre, per˜ no estˆ explicat...
+R: O sigui, potser el que fa falta s—n coneixements previs... Quins coneixements previs / fonaments creus que seran necessaris per poder resoldre el problema 1?
+P09: La fracci— dÕun nombre. I el que el total equival a 4/4. I bŽ, dono per suposat que saben restar...
+R: En quins aspectes creus que els alumnes tindran dificultats per la resoluci— del problema 6?
+P09: El primer apartat seria fˆcil. Han de saber sumar fraccions, i per tant, cal saber el m’nim comœ mœltiple. 
+I en lÕapartat b, la dificultat estˆ en qu la unitat Žs el total, i que aquesta unitat serˆ igual a 21/21. El grˆfic no crec que sigui dif’cil perqu ja estava explicat. Aqu’ [fonaments te˜rics] hi ha un exemple.
+I en lÕapartat c, tornem a tenir la fracci— dÕun nombre, que no sÕhavia explicat. 
+R: Quins dels coneixements de lÕ’ndex de la seqŸncia didˆctica seran necessaris per poder resoldre el problema 6?
+P09: Hi ha operacions amb fraccions: m’nim comœ mœltiple i suma i resta de fraccions. 
+R: Quins coneixements previs / fonaments creus que seran necessaris per poder resoldre el problema 6?
+P09: El fet que la unitat representa el tot i la fracci— dÕun nombre. 
+R: En quins aspectes creus que els alumnes tindran dificultats per la resoluci— del problema 7?
+P09: LÕordre de les fraccions. Els hi costa molt dÕidentificar. Molts et farien la primera operaci— comenant per lÕesquerra, primer. 
+R: Per qu?
+P09: Perqu no interioritzen, perqu estan molt acostumats a que els hi marquem amb parntesis. 
+I desprŽs aqu’ hi ha molta dificultat, perqu el resultat Žs negatiu.
+S’... les operacions combinades, no sŽ perqu no seÕls hi queda. 
+I bŽ, si aqu’ [(1/4-12/4)] hi haguŽs un producte notable...
+R: Aleshores ja seria molt complicat?
+P09: S’... per˜ ara no sŽ si es fan a 1r o a 2n dÕESO els productes notables.
+R: S’, per˜ en tot cas, entenc que el fet dÕafegir coses seria que fos mŽs complicat?
+P09: S’, exacte. 
+I clar, aqu’ estˆ tot el que entra, per˜ la dificultat nœmero 1 Žs lÕordre de les operacions. 
+R: I entre els tres apartats, creus que nÕhi ha algun de mŽs fˆcil o mŽs dif’cil?
+P09: Jo et diria que la primera Žs fˆcil... La segona potser te la farien bŽ perqu hi ha el parntesi marcat. I llavors primer et farien la resta i desprŽs la multiplicaci—. Aqu’ s’. 
+I en la tercera, et farien la resta [entre parntesi] segur primer, i tinc dubtes de si et farien la suma o la multiplicaci— desprŽs.
+R: Quins coneixements previs / fonaments creus que seran necessaris per poder resoldre el problema 7?
+P09: LÕordre de les operacions. I el m’nim comœ mœltiple... tot el que estˆ aqu’. 
+R: En quins aspectes creus que els alumnes tindran dificultats per la resoluci— del problema 10?
+P09: Primer, saber passar Òmig litreÓ a ?. Saber calcular la fracci— dÕun nombre, que no sÕha explicat. 
+LÕapartat b, Žs complicad’ssim: 2/3 de ?. 
+R: O sigui, Žs mŽs dif’cil si Žs fracci— de fracci—?
+P09: S’. 
+I desprŽs, en lÕapartat c Žs saber ajuntar els apartats anteriors en una divisi—. I aix˜ Žs dif’cil. 
+R: ƒs dif’cil que pensin en la divisi—?
+P09: S’. 
+I si no fossin fraccions ho sabrien fer. Aqu’ la fracci— els hi complica, molts et farien 2,5. Ho passarien a decimal. 
+R: Quins dels coneixements de lÕ’ndex de la seqŸncia didˆctica seran necessaris per poder resoldre el problema 10? I coneixements previs / fonaments?
+P09: Fracci— dÕun nombre, que no estˆ explicat enlloc. I fracci— dÕuna fracci—.
+R: Podries endrear-los de fˆcil a dif’cil?
+P09: A veure, depn de la competncia que avalu•s, per˜ jo et diria que entre els problemes 1, 6 i 10, el mŽs fˆcil Žs el 6, desprŽs lÕ1 i per œltim el 10. 
+R: I el problema 7 el veus com a part?
+P09: S’, seria mŽs fˆcil, parlem de mecˆnica, de cˆlcul. I la resta estarien fora igualats.
+Moltes grˆcies!
+
+
+R: Revisem aquesta seqŸncia didˆctica titulada ÒOperacions amb fraccionsÓ. Aqu’ tens el material te˜ric que proposa un llibre de text digital per al curs de 1r dÕESO. [Es dona imprs el material te˜ric de la seqŸncia didˆctica dÕoperacions amb fraccions].
+R: Creus que aquest ’ndex estˆ ben ordenat? Seguiries la mateixa seqŸncia? Per qu?
+P10: A mi em sembla que lÕordre Žs coherent. Crec que comena amb una situaci— m’nimament real, i segueix lÕestructura dÕavanar amb complexitat.  A nivell dÕordre em sembla molt bŽ.
+Potser faria tota la suma i tota la resta junt, perqu al final Žs la mateixa operaci— i per consolidar.
+R: Ordena els sabers de lÕ’ndex que sÕexpliquen en aquesta seqŸncia didˆctica segons la seva complexitat per als alumnes. ƒs a dir, de mŽs a menys dif’cil dÕaprendre per a un alumne, en general.
+P10: Els mŽs fˆcils s—n les operacions [suma i resta] amb mateix denominador. Fer el comœ denominador normalment no els hi costa, perqu Žs molt mecˆnic. Com a dificultat intermdia, quan tenen [sumes i restes amb] diferent denominador, o quan tenen multiplicacions i divisions perqu moltes vegades fan els m’nims comuns mœltiples quan no calen.
+Les operacions combinades s—n les mŽs complexes perqu, tot i que jo no tinc experincia en 1r dÕESO, si jo comeno a 4t fent un repˆs molt breu dÕoperacions combinades, em trobo que saben la jerarquia, per˜ no la segueixen. I aix˜ provoca que tinguin moltes errades. A principi de 4t dÕESO els hi vaig fer un examen on sortien operacions combinades i prˆcticament ningœ va arribar a la soluci— final. Era una operaci— llarga. Per˜ sÕequivocaquen en petites coses, tothom cometia alguna errada. 
+R: Per qu als alumnes els hi costen tant les operacions combinades?
+P10: Jo sŽ que, almenys aqu’ a lÕEscola, en cursos anteriors, sÕexpliquen amb el tema dels arbres. Jo crec que aix˜ no ajuda, no facilita. Perqu si no tornes a copiar-ho tot dÕesquerra a dreta... Aleshores, jo quan ho treballo a 4t dÕESO, que Žs una cosa que dono molt per apresa i anem a fer un repˆs molt rˆpid... 
+S’ que sŽ que a 3r ja no ho treballen aix’, per˜ s’ que sŽ que en cursos anteriors, si mŽs no [abans], es feia dÕaquesta manera. I jo crec que aix˜ no ajuda. 
+R: Quins coneixements previs / fonaments creus que seran mŽs rellevants / necessaris per poder aprendre amb xit aquesta seqŸncia didˆctica? M’nim 2.
+P10: Han de conixer els nombres positius i negatius, per poder fer les multiplicacions [i altres operacions] que els hi quedi positiu o negatiu. I han de saber com fer els divisors [descomposici— factorial], per trobar el m’nim comœ mœltiple. I tambŽ et diria la jerarquia [dÕoperacions]. Ho han treballat amb nombres reals, i saber que si tens un parntesi, aix˜ va primer, amb independncia de si s—n fraccions o no.  
+TambŽ, a part, el concepte de fracci—, que crec que aix˜ costa. I tinc la sensaci— que a mesura que es fan grans, encara el perden mŽs... Jo per exemple, llegia aix˜ [fonament te˜ric] al principi i pensava, aquest problema Žs genial perqu ho contextualitza, per˜ jo en general em trobo que els problemes els hi costen. Perqu no saben fer la traducci—. A vegades, hi ha problemes que s—n molt senzills... I jo crec que aix˜ passa perqu en el fons no saben qu Žs una fracci—. O sigui, memoritzen com multiplicar, com dividir, com sumar,..., per˜ en el concepte de fracci—, encara fallem. 
+R: Qu passa amb els alumnes que tenen dubtes sobre aquests coneixements previs, Žs a dir, no els tenen suficientment assolits?
+P10: Que aleshores queden bloquejats per a les segŸents unitats, Žs evident. Si no sap operar amb positius i negatius, quan ens trobem una tira de fraccions es mor. Si no sap fer el m’nim comœ mœltiple, no pot continuar. Aix˜ Žs el que passa...
+Qu sÕhauria de fer a partir dÕaqu’? Doncs recuperar la unitat anterior amb aquell alumne, repassar els continguts mŽs essencials de la unitat anterior.
+R: ƒs una situaci— freqŸent?
+P10: Home... passa. No sŽ si molt freqŸent, per˜ passa, la veritat Žs que s’. Jo crec que ens trobem tambŽ amb una realitat evident: aix˜ dÕanar a diferents tempos amb diferents alumnes Žs el que ha de ser, el que sÕha de fer, i sÕha dÕavanar cap aqu’, per˜ a la realitat costa molt. Jo sempre tinc el dilema de com aconseguir compaginar el rigor matemˆtic -perqu moltes vegades els que tiren mŽs queden oblidats- amb aquells que tenen dificultats o pel que sigui han estat mŽs apalancats al principi i ara estan endarrerits. Aix˜ passa, no tÕho sabria quantificar, per˜ s’ que passa. 
+R: Ordena de major a menor rellevˆncia els coneixements previs de la llista50 segŸent [es dona llista impresa] per tal de poder aprendre amb xit en aquesta seqŸncia didˆctica.
+P10: Les fraccions, junt amb els conceptes de numerador i el denominador, s—n molt bˆsics. Multiplicaci— i divisi— dÕenters, segon. Nombres primers, tercer. I amplificaci— i reducci— de fraccions, quart. 
+Jo crec que el concepte de fraccions Žs molt important. Sense el concepte no vas enlloc. ƒs a dir, pots treure un 10 en un examen, si Žs molt de cˆlcul, sense saber el concepte, per˜ desprŽs per la vida, si tens un problema o les coses es compliquen... tens un problema. I insisteixo que aix˜ potser desprŽs no tŽ correspondncia amb la nota, per˜ crec que Žs important.
+DesprŽs, aquest [multiplicaci— i divisi— dÕenters], perqu al final Žs el que et dona la base per les operat˜ries per la major part dÕexˆmens de cˆlcul que es fan. 
+Llavors nombres primers, perqu tambŽ Žs important per fer la descomposici—.
+I la reducci— de fraccions... home, entenc que no fer la fracci— irreductible, penalitza, per˜ no Žs essencial, perqu pots arribar-hi per un altre cam’.
+R: Revisem aquests problemes. [Es donen impresos quatre problemes amb soluci—]. Corresponen a la seqŸncia didˆctica anterior.
+R: En quins aspectes creus que els alumnes tindran dificultats per la resoluci— del problema 1?
+P10: Jo et diria, dÕentrada en la primera i en la segona pregunta, han de fer dues coses. ƒs a dir, primer han de fer la quarta part i desprŽs han de fer la resta. S—n aquestes dues coses. I en el segon, crec que Žs el mateix. 
+Jo crec que un perfil dÕalumnes no entenen la pregunta i potser no fan el pas previ. 
+R: Preguntes en qu hi ha mŽs dÕun cˆlcul, poden ser mŽs complicades?
+P10: Clar, perqu com que ja, dÕentrada, lÕenunciat del problema els bloqueja normalment (a un gruix considerable [dÕalumnes]), aleshores potser ja no fan res. I lÕapartat c, depn de la b. 
+R: Quan dius que lÕenunciat els bloqueja, a qu et refereixes?
+P10: Que en general, bŽ, generalitzo, hi ha nanos que no. En els problemes, quan seÕls troben amb lletres, diguem que no Žs un cˆlcul directe, aix˜ Žs la competncia que mŽs els hi costa.
+Jo crec que tradicionalment sÕha separat molt: Òara fem fraccionsÓ i Òara fem problemesÓ. I jo crec que des de petits, hauria dÕestar mŽs ben arrelat -tot i que Žs molt fˆcil de dir i molt dif’cil de portar a terme- que aix˜ estiguŽs barrejat. 
+La part de comprensi—, jo crec que en general, la part de comprensi— lectora, en les llengŸes va pitjor que anys enrere (penso). No sŽ si tŽ a veure amb la immediatesa de les coses o la poca pacincia a lÕhora de llegir, per˜ aix˜ els hi costa. 
+I aqu’, el fet de que depengui de diferents apartats, o que hi hagi dos cˆlculs, crec que tambŽ pot complicar una mica.
+R: Quins dels coneixements de lÕ’ndex de la seqŸncia didˆctica seran necessaris per poder resoldre el problema 1?
+P10: BŽ, sumes i restes no en fan servir aqu’. S’ que necessiten entendre el concepte de fraccions i multiplicar i dividir, bˆsicament.
+R: Quins coneixements previs / fonaments creus que seran necessaris per poder resoldre el problema 1?
+P10: El concepte de fracci—. Perqu per saber Ò? deÓ has dÕentendre molt bŽ el que Žs una fracci—. ƒs all˜ que et deia abans.
+R: En quins aspectes creus que els alumnes tindran dificultats per la resoluci— del problema 6?
+P10: Crec que Žs el mateix que el primer. En el sentit de que els problemes, en general, els hi costen, per˜ crec que en aquest cas s’ que no hi ha dependncia dÕun apartat entre lÕaltre. I aix˜ abans no passava. Crec que aquest Žs mŽs senzill.
+I aqu’ [apartats a i b] estˆ fet en 2 passes [1 pregunta per cada cˆlcul]. Penso que per ells va millor aquesta estructura. 
+R: Quins dels coneixements de lÕ’ndex de la seqŸncia didˆctica seran necessaris per poder resoldre el problema 6?
+P10: Aqu’ s’ que es veu clar que has de fer suma i resta amb diferents denominadors i, per tant, com a concepte previ has de saber com es fa el m’nim comœ mœltiple i la descomposici— factorial. I tambŽ hi ha multiplicacions de fraccions. 
+I bŽ, si saben transformar el ÒdeÓ per una multiplicaci— [fracci— dÕuna quantitat] els va millor.
+R: En quins aspectes creus que els alumnes tindran dificultats per la resoluci— del problema 7?
+P10: Aquest no tŽ la font de dificultat de que Žs un problema, per tant, jo crec que aix˜ en general els beneficia. Llavors, el perfil dÕalumnes que treballa i practica, aix˜ ho pot fer molt bŽ. I potser tŽ un 0 en els altres dos problemes. 
+Fonts de dificultat? Doncs el que diem abans, saber seguir la jerarquia dÕoperacions. No caure en la temptaci— de fer-ho en un altre ordre, per exemple fer abans la resta i desprŽs la divisi—.
+R: Hi ha algun dels tres apartats que creguis que Žs mŽs dif’cil per algun motiu?
+P10: En lÕapartat c, han de saber que el 3 Žs un 3/1 i fer el m’nim comœ mœltiple, que aix˜ a vegades potser costa i han dÕaplicar la distributiva. Potser lÕœltim, perqu tambŽ tŽ nombres negatius. 
+Home, tots tenen la seva dificultat. ƒs a dir, jo potser et diria lÕapartat c, per˜ clar, en lÕapartat a tambŽ hi ha un perfil dÕalumnes que et fa la resta directament [abans que la divisi—]. En lÕapartat b tens els parntesis, i s’ que Žs veritat que aquests parntesis tÕalerta de que has de fer primer aix˜. I en lÕa tŽ el m’nim comœ mœltiple que Žs una mica mŽs gran...
+R: O sigui, depn de les coses que tingui?
+P10: S’.
+R: Quins dels coneixements de lÕ’ndex de la seqŸncia didˆctica seran necessaris per poder resoldre el problema 7?
+P10: Aqu’ de la unitat didˆctica una mica tot. Aqu’ s’ que no necessites entendre qu Žs una fracci—, per˜ s’ que necessites saber sumar i restar amb iguals o diferents denominadors, multiplicar, dividir no tÕho demana en aquest cas. I operacions combinades, evidentment.
+R: Quins coneixements previs / fonaments creus que seran necessaris per poder resoldre el problema 7?
+P10: Respecte els que hem parlat abans, el concepte de fracci— (que Žs molt important) aqu’ no el necessites. S’ que necessites saber multiplicar i dividir enters, els nombres primers i lÕamplificaci— i reducci— de fraccions. Jo crec que s—n aquests.
+R: En quins aspectes creus que els alumnes tindran dificultats per la resoluci— del problema 10?
+P10: Jo crec que necessites estar mŽs concentrat per entendre el que tÕestˆ demanant. 
+A mŽs, en lÕapartat c, tornem a dependre de lÕapartat anterior. 
+I a mi, em costa una mica mŽs dÕentendre lÕenunciat, aix˜ de Òles indicacions del teu amicÓ. 
+A nivell de coneixements previs, el que necessites Žs una altra vegada la multiplicaci—, els percentatges [fracci— dÕuna quantitat], com a idea de coneixement previ que potser no estava tan clara, per poder fer aquesta operat˜ria.
+R: MÕhas comentat en varis moments que hi ha la dificultat de les operacions i la dificultat del problema. Les sabries definir cadascuna?
+P10: La dificultat del problema no Žs una dificultat matemˆtica, jo penso, Žs una dificultat de comprensi— lectora, que crec que els hi costa molt. No sŽ si Žs perqu no llegeixen, o qu, per˜ es perden a la meitat de lÕenunciat i no saben qu els hi demanes.
+En canvi, la dificultat de les operacions combinades, mŽs de cˆlcul, aqu’ Žs mŽs dÕestudiar la teoria i matxacar. Crec que si un es prepara els apunts i practica, ho pot treure.
+R: Va haver-hi un altre professor/a que em va dir que tu podies no entendre les fraccions, per˜ fer aquest exercici bŽ. 
+P10: Clar, Žs aix’. Molt bŽ. Exacte.
+Ens trobem a vegades amb exˆmens de... ÒHe tret un 10 a lÕexamenÓ i bŽ, aquella persona en realitat no en tŽ ni idea, per˜ el que passa Žs que Žs tan mecˆnic...
+R: Diries que aquests exercicis s—n mŽs fˆcils, o Žs una dificultat diferent?
+P10: Home, jo crec que s—n mŽs fˆcils, potser et diria ara. 
+R: ƒs a dir, tÕhas trobat a les classes que aquests s—n mŽs fˆcils?
+P10: S’, perqu el que veig Žs que aquest, amb feina a casa teÕn pots en sortir -matxacant-ho-, i els problemes no sempre. ƒs a dir, hi ha molta frustraci— pels problemes. Hi ha qui ho veu a la primera, per˜ jo diria que costen mŽs.
+Moltes grˆcies!
+
+
+R: Revisem aquesta seqŸncia didˆctica titulada ÒOperacions amb fraccionsÓ. Aqu’ tens el material te˜ric que proposa un llibre de text digital per al curs de 1r dÕESO. [Es dona imprs el material te˜ric de la seqŸncia didˆctica dÕoperacions amb fraccions].
+R: Creus que aquest ’ndex estˆ ben ordenat? Seguiries la mateixa seqŸncia? Per qu?
+P11: Jo barrejaria les sumes i les restes a la vegada. En comptes de fer sumes per una banda i restes per lÕaltra. Perqu Žs millor no fer el concepte de suma i resta, sin— treballar amb nombres positius i negatius, perqu sin— desprŽs ho arrosseguen. I desprŽs s’, suma, resta, multiplicacions i divisions. 
+R: Creus que algun dÕaquests es podria intercanviar?
+P11: S’, de totes maneres, aniria afegint-los, no separant-los. Una vegada acabo de les operacions no passo a les operacions combinades sin— que vaig barrejant-los. No faig les operacions combinades al final, vaig barrejant. 
+I jo crec que va molt bŽ, a matemˆtiques, comenar per all˜ que saps que a lÕalumne li va millor i tŽ facilitat, i llavors anem complicant-ho. Jo primer s’ que faria sumes de tot nombres positius, i desprŽs comenaria a posar algun de negatiu. DesprŽs multiplico, ... Inclœs a vegades comenar per multiplicacions tambŽ, perqu Žs molt fˆcil. En fraccions, multiplicacions i divisions s—n molt fˆcils.
+R: Ordena els sabers de lÕ’ndex que sÕexpliquen en aquesta seqŸncia didˆctica segons la seva complexitat per als alumnes. ƒs a dir, de mŽs a menys dif’cil dÕaprendre per a un alumne, en general.
+P11: La multiplicaci— i divisi— de fraccions s—n fˆcils. En canvi, la suma i la resta de fraccions amb diferent denominador serien complicats. I la suma i resta de fraccions amb el mateix denominador seria de dificultat intermdia. 
+Les operacions combinades s—n complicades, perqu potser no assoleixen ben bŽ els anteriors. No Žs tant la complicaci— de lÕoperaci—. Per aix˜ jo ho vaig afegint mica en mica, perqu de cop i volta li poses tot, havent-ho fet [abans] en trossos...
+I la reducci— a comœ denominador, jo no ho posaria com a fˆcil, ho posaria com a intermedi. 
+R: Per quins motius ho has classificat aix’?
+P11: [En els casos dels sabers complexes,] que lÕoperat˜ria Žs una mica mŽs complexa. Has de fer alguna operaci— mŽs: quan has de fer el m’nim comœ mœltiple, necessites fer alguna cosa mŽs per arribar a all˜. Quan tens denominadors comuns, Žs mŽs fˆcil. ƒs perqu s—n mŽs passes. I si no tens molt assolides les passes, Žs aix˜.
+R: Entesos, Žs perqu s—n mŽs passes, i em dius, si algunes no estan assolides, tambŽ.
+P11: Clar, perqu, en una operaci— combinada, nomŽs que algun dÕaquests [dels coneixements treballats anteriorment] els fallin, ja seÕt complica. I no vol dir que lÕalumne, per parts, no ho sˆpiga. ƒs com sumar i multiplicar. Ho aprenen molt rˆpid, per˜ desprŽs seÕls hi compliquen quan tenen nombres mŽs alts.
+A mŽs Žs que aquest tema Žs tremendo. Estic a batxillerat ara i encara, 1/3+2 tenim problemes. I si poso 1/3+1/2 llavors no. Per˜ 1/3+2, encara ara [tenim problemes]. 
+I aix˜ Žs una altra cosa, que quan no hi ha denominador...
+2/3+1/3 tÕho fan. 2/3+2. Com que el 2 no tŽ denominador, aleshores: ÒÁSocorro! ÀD—nde empiezo a hacerlo?Ó. I no Žs que no ho sˆpiguen. 
+I estic parlant de batxillerat, i tambŽ he fet 3r i 4t dÕESO. Veig que les errades que no van poder assolir del tot, ara encara les arrosseguem. I potser hi ha una didˆctica que nosaltres no fem bŽ...
+R: Quins coneixements previs / fonaments creus que seran mŽs rellevants / necessaris per poder aprendre amb xit aquesta seqŸncia didˆctica? M’nim 2.
+P11: LÕoperat˜ria de nombres enters. ƒs el que mŽs. I el concepte de fer m’nim comœ mœltiple, que Žs el que es fa a primˆria. Jo crec que aix˜ Žs el que els falla. 
+R: Qu passa amb els alumnes que tenen dubtes sobre aquests coneixements previs, Žs a dir, no els tenen suficientment assolits?
+P11: Que tindran dificultats segur. Haurem de fer un previ amb aix˜. I Žs que potser donem per fet que a tots els han assolit. 
+Jo a la pissarra sempre poso, al costat, el ÒrecordeuÓ. Aquestes coses que han de recordar, i ho poso en vermell, que sÕho apuntin. I llavors ho ells tenen a la segŸent unitat. Ara mÕha passat amb les identitats notables. Jo ara estava amb derivades i necessitaven identitats notables. El ÒrecordarÓ: ÒVinga, qu necessiteu recordar, en vermell? Ja ho mirareu de lÕaltra unitat, per˜ ho teniu aqu’Ó.
+R: Tu ho tens assumit ja com una prˆctica habitual? Aix˜ quan temps fa que ho fas i notes que Žs important per a ells/es?
+P11: S’, perqu a vegades no em feien un exercici perqu no seÕn recordaven dÕaix˜. MÕhavia passat a l’mits. Saps fer l’mits, per˜ com que aix˜ no ho recordes, no ho saps fer. Llavors jo tÕho poso aqu’, aix˜ ho tenim, ho recordes i ho fas. Per mi Žs bˆsic. 
+R: Ordena de major a menor rellevˆncia els coneixements previs de la llista51 segŸent [es dona llista impresa] per tal de poder aprendre amb xit en aquesta seqŸncia didˆctica.
+P11: Si entenen qu Žs una fracci—, el de dalt i el de baix, no Žs tant important saber numerador i denominador. Sempre que sÕentengui qu Žs el nombre de dalt i el nombre de baix. 
+Ampliaci— i reducci— de fraccions, Žs dÕuna importˆncia intermdia. 
+Pel que fa als nombres primers. Sincerament, quan s—n grans, que no seÕn recorden de quins s—n primers, van provant i van fent... jo no sŽ si Žs tan important que recordin quins s—n primers. Quan s—n nombres alts, no ho sabem ningœ, llavors jo el veig poc rellevant.
+I multiplicaci— i divisi— dÕenters s’ que Žs important. Els enters s—n bˆsics per a tot aix˜. I que ells vegin que aix˜ [lÕoperat˜ria] Žs igual que quan feien enters. Que ells ho vegin, que Žs el mateix. 
+R: Revisem aquests problemes. [Es donen impresos quatre problemes amb soluci—]. Corresponen a la seqŸncia didˆctica anterior.
+R: En quins aspectes creus que els alumnes tindran dificultats per la resoluci— del problema 1? 
+P11: Els problemes, en general, ja per a ells/es Žs una dificultat. Tu si els hi fas fer aquesta operaci—, te la faran. O sigui, qu volem aconseguir aqu’? Que facin lÕoperaci—? La faran. Si volem aconseguir entendre-ho, llavors...
+R: ƒs a dir, mÕestˆs dient que aquesta operaci— Žs fˆcil, per˜ hi ha una altra complicaci—.
+P11: Clar, la complicaci— Žs plasmar lÕoperat˜ria en el que et demana. Jo ara a batxillerat mÕhe trobat que els hi he dit: Òcontesta com puguisÓ, en percentatges. MÕho raonen i em posen el resultat. I els hi dono per bo. Vull dir, a vegades, el que han de fer no saben com, per˜ s’ saben el resultat i ho podrien fer. 
+R: Tu ara mÕhas dit que aqu’ tambŽ hi ha una complicaci— del format com ho han de posar?
+P11: Correcte, s’. Aquest exercici segurament els costaria perqu Žs redactat. Tu els hi demanes que calculin ? de 16 i et faran ? de 16. 
+Jo crec que aqu’ ajuda molt fer-ho visual. Jo aix˜ ho faig molt. Perqu no tothom tŽ la mateixa inteláligncia. A mi em costa llegir, jo s—c molt visual.  
+Aix˜ Žs una de les coses que dificulta. ÒJo sŽ fer aix˜ per˜ com que mÕho poses aix’ no ho puc posar.Ó Aix˜ Žs molt frustrant pels alumnes. Els hi hem de facilitar molt el com preguntem. 
+R: O sigui, creus que una part important de la complexitat del problema Žs com estˆ plantejat?
+P11: S’. I no em val all˜ de: ÒŽs que com que no saben llegir...Ó. No va per aqu’. No tothom tŽ la mateixa competncia lectora un que un altre. Ho veig amb cincies. Els de cincies s—n mŽs pim pam. ÒNo te me enrolles, ÀquŽ necesito?Ó. 
+R: Llavors aquestes preguntes, tu creus que per com estan redactades, s—n clares?
+P11: ...
+R: Hi ha hagut professors/es que mÕhan dit que potser aquest problema no era tan directe. No sŽ si estˆs dÕacord amb aix˜?
+P11: S’. TambŽ estˆ bŽ, per˜ si no Žs directe li has de donar algunes pistes per ajudar-lo.
+R: Qu vol dir que sigui directe?
+P11: ...
+R: Si vols mirem altres problemes, i si veus un que Žs mŽs directe em dius: aquest Žs mŽs directe per aquest motiu.
+P11: El problema 6 Žs pim pam, aquest el fan segur. Aquests s—n directes, en aquests no tindrˆs problemes. Jo crec. 
+De fet, si ho penses bŽ, en el problema 1 el que has de fer no ve prˆcticament ni del que tens a lÕenunciat. 
+R: Quins dels coneixements de lÕ’ndex de la seqŸncia didˆctica seran necessaris per poder resoldre el problema 1?
+P11: Aqu’ el m’nim comœ mœltiple no el fan servir. Fan multiplicacions i divisions. Suma i restes, ni caldria. Inclœs s—n [operacions] de nombres enters al final. 
+Passa que s’ que surten combinats. ƒs aquesta combinaci— senzilla.
+R: Quins dels coneixements de lÕ’ndex de la seqŸncia didˆctica seran necessaris per poder resoldre el problema 6?
+P11: Suma i restes [de fraccions] i producte [de fraccions].
+R: Quins coneixements previs / fonaments creus que seran necessaris per poder resoldre el problema 1?
+P11: El concepte de fracci—, vull dir la part dÕalgo [la fracci— dÕuna quantitat].
+R: Aqu’ potser seria el que tu deies del ÒrecordeuÓ
+P11: S’, falta el previ, llavors no tindrien tant de problema. I fixaÕt: Ò? de 16Ó, per saber qu Žs Ò1/4 de 16Ó, sÕha de saber que un Žs la part i lÕaltre el total. ƒs molt important saber qu Žs el total i qu Žs la part. De fet, aix˜ a batxillerat ho recordo, a percentatges, Òy a partir de ah’, chicos, pensadloÓ. Aix˜ Žs el meu ÒrecordaÓ, a la cantonada. I desprŽs ja els hi demano el que sigui. 
+R: En quins aspectes creus que els alumnes tindran dificultats per la resoluci— del problema 7? 
+P11: LÕequivalncia entre nœmero enter i fracci— els hi pot. Aix˜ Žs un concepte que els hi costa molt. Que sˆpiguen que un 3 Žs 3/1. 
+La prioritat de les operacions tambŽ els hi costarˆ. I les restes, depn. Si la resta dona negatiu el nombre Žs un problema. No tant que el resultat final sigui negatiu, sin— que entre mig hi hagi algun negatiu. ƒs el concepte de positiu i negatiu. Si tenen +-11, li sumo un nombre negatiu.
+Quan hi ha un parntesi hi ha una dificultat perqu aix˜ els bloqueja. Jo els hi dic: Òde dins cap a foraÓ. SeÕls hi ha de donar estratgies que es puguin aplicar sempre. I quan ja sabem prviament el que costa, posar-ho en el ÒrecordaÓ. Jo s—c una obsessionada del ÒrecordaÓ, perqu lÕalumne/a, ho sap fer, per˜ a vegades no ho tŽ en ment en el moment. Jo veig aix˜. 
+R: En quins aspectes creus que els alumnes tindran dificultats per la resoluci— del problema 10? 
+P11: Estem amb el mateix dÕabans: ? de 5. Cal saber el concepte. Si no tens el concepte de la part i el total [fracci— dÕuna quantitat]... A mŽs Žs que ho veig. Quan [a batxillerat] van entendre-ho, seÕls hi va obrir la llum. 
+Aqu’ han dÕentendre aquest ÒdeÓ, si tu al costat els hi poses una breu informaci— sobre com funciona, no per mecˆnica, sin— perqu el previ entenguin, [els ajuda]. 
+LÕapartat c, han dÕanar a veure el qu han fet abans. Aquesta ja no la faria tothom. Aix˜ de les preguntes encadenades, a mi no mÕagrada molt. O sigui, qu volem que sˆpiguen? Perqu si sÕha encallat en lÕanterior, ja lÕhas pifiat perqu ni seÕl mirarˆ. No per posar-ho mŽs fˆcil, sin— perqu podem aconseguir el mateix posant-ho per separat.
+R: Quins dels coneixements de lÕ’ndex de la seqŸncia didˆctica seran necessaris per poder resoldre el problema 10?
+P11: Les multiplicacions i divisions [de fraccions].
+R: Quins coneixements previs / fonaments creus que seran necessaris per poder resoldre el problema 10?
+P11: El que diem de les parts i el total [fracci— dÕun nombre].
+R: Com que ho has anat comentant, et pregunto: el tema aquest dels ÒrecordeuÓ, si li planteges aquesta fulla de problemes i li posem els recordatoris, creus que seria prohibitiu per a que aprengui? Li ajudaries a aprendre o li restaries aprenentatge?
+P11: Jo crec que lÕajudaria. I li agafaria la seguretat que no tenen. Jo crec que els alumnes a mates els hi falta seguretat. Se senten molt insegurs.
+R: Sabries dir dÕon ve aquesta inseguretat?
+P11: S—n inseguretats de que hem corregit molt dient: Òno serveixesÓ, Òaquest problema no estˆ bŽ i teÕl tatxoÓ. Justament ara tinc els de 1r de Batxillerat social i vaig fer una pregunta a inici de curs sobre perqu estaven aqu’, qu volien estudiar (econ˜miques, empresarials, etc.), i com us veieu vosaltres amb matemˆtiques. Era molt fort perqu tots eren Òjo s—c dolent’ssimÓ, Òhe agafat aix˜ perqu aix’ no faig lÕaltreÓ, ... Han aprovat tots el primer trimestre, tÕho prometo. Sense regalar res. SÕhan superat ells mateixos. Vaig comenar amb coses mŽs senzilles, que ja sabia clar que les havien de tenir, els hi he posat molts v’deos: Òsi no recordeu de les equacions biquadrades, aqu’ teniu v’deos, matxaqueu-los i ens ho mirem el dia segŸentÓ. I ara mateix estan motivad’ssims. Llavors, si estan motivats... ƒs sœper important.
+R: Podria ser que aquesta inseguretat o desmotivaci— sumi tambŽ com a complexitat?
+P11: Totalment. Absolutament. Un alumne que li dones aquests problemes i a demŽs pensa que Žs dolent, sÕatabalen. I el cervell sÕatabala: Òno s—c capaÓ. Tenen una pressi— que se la posen ells mateixos i potser nosaltres mateixos [tambŽ]...
+Ningœ Žs dolent per res, per˜ si ho anem dient... Doncs al final Òsoy un desastreÓ. No, doncs escolta, anem a provar-ho! 
+I desprŽs treball. Evidentment que han de treballar, que tambŽ els hi falta. Per˜ un alumne no fa mates quan no entŽn de res. Ningœ no fa mates perqu no vol. A la que els hi agafen el gust, els hi encanta a tots. ƒs com un joc!
+ƒs aix˜ de que creguin que s’ que poden, i que si no fan bŽ, no passa res. Aquesta errada, anem a mirar. 
+No sŽ si aix˜ Žs didˆctica de matemˆtiques, per˜ li hem de donar un tomb. 
+Moltes grˆcies!
+1 Llista: Fraccions, Numerador, Denominador, Amplificaci— i reducci— de fraccions, Nombres primers, Potncies, Multiplicaci— dÕenters, Divisi— dÕenters.
+2 La participant sÕestˆ referint a la soluci— del problema, ja que el material sÕha entregat amb solucions.
+3 ÊLa participant sÕestˆ referint al procediment de cˆlcul de la fracci— dÕuna quantitat.
+4 Referncia a la proposta de soluci— del problema.
+5 La participant respon a la pregunta marcant de lÕ1 al 8 segons complexitat, en el full que se li ha entregat, per˜ no es disposa de la resposta en enregistrament dÕˆudio.
+6 Llista: Fraccions, Numerador, Denominador, Amplificaci— i reducci— de fraccions, Nombres primers, Potncies, Multiplicaci— dÕenters, Divisi— dÕenters.
+7 La participant estˆ revisant el problema 6.
+8 La participant assenyala les fraccions dÕuna quantitat que sÕhan de calcular per resoldre els problemes 6 i 10.
+9 Referncia als continguts de la seqŸncia didˆctica.
+10 La participant respon a la pregunta marcant de lÕ1 al 3 segons complexitat, en el full que se li ha entregat, per˜ no es disposa de la resposta en enregistrament dÕˆudio dÕaquesta l’nia.
+11 La participant assenyala la part del material didˆctic referent a denominador comœ i a operacions amb fraccions.
+12 Llista: Fraccions, Numerador, Denominador, Amplificaci— i reducci— de fraccions, Nombres primers, Potncies, Multiplicaci— dÕenters, Divisi— dÕenters.
+13 En el moment de respondre aquesta pregunta, la participant pensava que la resposta dels diferents apartats de cada problema eren maneres diferents de donar resposta al mateix problema, i no preguntes diferents dins del mateix context. Fer la revisi— a fons del primer problema li serveix per adonar-seÕn. Un cop aclarit el dubte, seguim amb lÕentrevista.
+14 Assenyala la resoluci— de la fracci— dÕuna quantitat.
+15 Aqu’ el participant fa referncia a lÕordre seqŸencial dÕaprenentatge (no a lÕordre de complexitat).
+16 El participant assenyala la suma i resta de fraccions amb comœ denominador al material facilitat.
+17 El participant assenyala la reducci— a comœ denominador al material facilitat.
+18 El participant es refereix a lÕescola on imparteix classe.
+19 Llista: Fraccions, Numerador, Denominador, Amplificaci— i reducci— de fraccions, Nombres primers, Potncies, Multiplicaci— dÕenters, Divisi— dÕenters.
+20 El participant assenyala el cˆlcul de la divisi— de fraccions.
+21 Assenyala la fonamentaci— te˜rica de la seqŸncia didˆctica.
+22 Assenyala apartats a i b.
+23 Assenyala el cˆlcul de la fracci— dÕuna quantitat.
+24 Assenyala la reducci— a comœ denominador de la resoluci—.
+25 21 Žs el denominador comœ de la resposta.
+
+26 El participant es refereix als quatre problemes en general.
+27 El participant assenyala la introducci— al problema i els diferents apartats.
+28 LÕenregistrament dÕaquesta frase no Žs complet perqu la participant marca sobre el full lÕescala de dificultat.
+29 Llista: Fraccions, Numerador, Denominador, Amplificaci— i reducci— de fraccions, Nombres primers, Potncies, Multiplicaci— dÕenters, Divisi— dÕenters.
+30 La participant assenyala els blocs que ha definit: amplificaci— i reducci— de fraccions i nombres primers, i multiplicaci— i divisi— dÕenters.
+31 La participant respon directament a la pregunta sobre quins coneixements de la seqŸncia didˆctica s—n necessaris per respondre el problema 7.
+32 Aquest ordre no sÕha enregistrat en ˆudio perqu la participant escriu lÕordre sobre el full.
+33 La transcripci— dÕaquesta seqŸncia Žs fruit lÕenregistrament dÕˆudio i les anotacions que el participant fa al full de fonamentaci— te˜rica de la seqŸncia didˆctica.
+34 Llista: Fraccions, Numerador, Denominador, Amplificaci— i reducci— de fraccions, Nombres primers, Potncies, Multiplicaci— dÕenters, Divisi— dÕenters.
+35 La transcripci— dÕaquesta seqŸncia Žs fruit lÕenregistrament dÕˆudio i les anotacions que el participant fa al full de fonamentaci— te˜rica de la seqŸncia didˆctica.
+36 El participant assenyala la resoluci— de lÕapartat c.
+37 El participant respon directament a la pregunta sobre quins coneixements de la seqŸncia didˆctica s—n necessaris per respondre el problema 6 quan se li pregunta per les fonts de dificultat del problema.
+38 El participant fa un canvi en lÕordre de complexitat dels problemes i situa ara el problema 10 com el mŽs complex.
+39 Inicia la classificaci— pel mŽs senzill.
+40 La participant fa referncia a lÕordre o jerarquia dÕoperacions.
+41 Llista: Fraccions, Numerador, Denominador, Amplificaci— i reducci— de fraccions, Nombres primers, Potncies, Multiplicaci— dÕenters, Divisi— dÕenters.
+42 Inicia la classificaci— pel mŽs rellevant.
+43 La transcripci— dÕaquesta seqŸncia Žs fruit lÕenregistrament dÕˆudio i les anotacions que el participant fa al full de fonamentaci— te˜rica de la seqŸncia didˆctica.
+44 La participant respon a la pregunta respecte coneixements de la seqŸncia didˆctica i coneixements previs en la mateixa resposta sobre les fonts de dificultat.
+45 La participant assenyala lÕapartat a del problema 7.
+46 Llista: Fraccions, Numerador, Denominador, Amplificaci— i reducci— de fraccions, Nombres primers, Potncies, Multiplicaci— dÕenters, Divisi— dÕenters.
+47 La participant respon a la pregunta marcant de lÕ1 al 7 segons complexitat, en el full que se li ha entregat, per˜ no es disposa de la resposta en enregistrament dÕˆudio.
+48 La participant respon a la pregunta marcant de lÕ1 al 4 segons complexitat, en el full que se li ha entregat, per˜ no es disposa de la resposta en enregistrament dÕˆudio.
+
+49 La participant es refereix a una seqŸncia didˆctica mitjanant la terminologia ÒstepÓ, que Žs lÕemprada pel llibre de text.
+50 Llista: Fraccions, Numerador, Denominador, Amplificaci— i reducci— de fraccions, Nombres primers, Potncies, Multiplicaci— dÕenters, Divisi— dÕenters.
+51 Llista: Fraccions, Numerador, Denominador, Amplificaci— i reducci— de fraccions, Nombres primers, Potncies, Multiplicaci— dÕenters, Divisi— dÕenters.
+---------------
+
+------------------------------------------------------------
+
+---------------
+
+------------------------------------------------------------
+
+
+
+
+31
+
+
