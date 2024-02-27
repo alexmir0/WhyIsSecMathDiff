@@ -13,3 +13,7 @@ CONTACT Àlex Miró
 Mail: alex.miro@upc.edu
 ORCID: 0000-0003-4948-6040
 Twitter: @_alexmiro
+
+LICENSE
+-------
+Why Is Secondary School Mathematics Difficult to Learn From the Perspectives of In-Service Teachers and Cognitive Load Theory © 2024 by Àlex Miró Mediano is licensed under CC BY-NC-SA 4.0 
